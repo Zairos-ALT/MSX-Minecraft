@@ -96,3 +96,7 @@
 [03Oct2025 18:52:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT joined the game
 [03Oct2025 18:54:05.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Disconnected
 [03Oct2025 18:54:05.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
+[03Oct2025 19:00:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Oct2025 19:00:50.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: exit<--[HERE]
+[03Oct2025 19:03:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Oct2025 19:03:04.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
