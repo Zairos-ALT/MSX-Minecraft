@@ -100,3 +100,7 @@
 [03Oct2025 19:00:50.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: exit<--[HERE]
 [03Oct2025 19:03:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [03Oct2025 19:03:04.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[03Oct2025 19:54:55.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Oct2025 19:54:55.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: exit<--[HERE]
+[03Oct2025 19:55:24.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Oct2025 19:55:24.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
