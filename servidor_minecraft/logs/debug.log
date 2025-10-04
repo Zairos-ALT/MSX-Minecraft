@@ -6360,3 +6360,59 @@ java.lang.IllegalStateException: not found
 [04Oct2025 06:32:39.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Oct2025 06:32:39.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Oct2025 06:33:02.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/35496, l='ServerLevel[world]', x=86.48, y=36.05, z=835.44] died, message: 'Leatherworker drowned'
+[04Oct2025 06:35:01.191] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Oct2025 06:36:24.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Not Today, Thank You]
+[04Oct2025 06:37:39.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 06:37:39.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 06:38:21.173] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Oct2025 06:38:26.721] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[04Oct2025 06:38:26.722] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[04Oct2025 06:38:29.947] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[04Oct2025 06:38:29.947] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[04Oct2025 06:39:23.298] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player MaximoGB23 just tried to change non-editable sign
+[04Oct2025 06:41:36.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Disconnected
+[04Oct2025 06:41:36.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[04Oct2025 06:41:36.866] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 55bb4f29-2181-32db-aab3-3c694c056141
+[04Oct2025 06:41:36.866] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MaximoGB23
+[04Oct2025 06:41:36.866] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[04Oct2025 06:41:41.141] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Oct2025 06:41:41.141] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Oct2025 06:42:39.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 06:42:39.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 06:43:12.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Zairos_ALT to Panchito232027
+[04Oct2025 06:43:22.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/49009, l='ServerLevel[world]', x=2635.50, y=35.56, z=405.30] died, message: 'Leatherworker suffocated in a wall'
+[04Oct2025 06:45:01.241] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Oct2025 06:45:26.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 2901 71
+[04Oct2025 06:45:32.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 293
+[04Oct2025 06:47:39.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 06:47:39.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 06:48:21.226] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Oct2025 06:48:29.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Sweet Dreams]
+[04Oct2025 06:49:43.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9580ms or 191 ticks behind
+[04Oct2025 06:49:43.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved too quickly! -2.139637562401049,1.9031272476744903,9.741952070583238
+[04Oct2025 06:49:43.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! 9.47644446653544,-3.0,-2.454608341799485
+[04Oct2025 06:49:46.988] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[04Oct2025 06:51:09.862] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: structory:harvest/well_bottoms
+[04Oct2025 06:51:23.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Ol' Betsy]
+[04Oct2025 06:51:27.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Take Aim]
+[04Oct2025 06:51:41.191] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Oct2025 06:51:41.191] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Oct2025 06:52:26.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 3414 71
+[04Oct2025 06:52:31.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 197
+[04Oct2025 06:52:48.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 06:52:48.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 06:53:30.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Fishy Business]
+[04Oct2025 06:54:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Masquerade]
+[04Oct2025 06:55:01.291] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Oct2025 06:55:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Amateur Archaeologist]
+[04Oct2025 06:57:48.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 06:57:48.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 06:58:06.491] [Worker-Main-1/DEBUG] [com.bobmowzie.mowziesmobs.MowziesMobs/]: Monastery at BlockPos{x=2056, y=0, z=1448}
+[04Oct2025 06:58:21.241] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Oct2025 06:58:35.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/60001, l='ServerLevel[world]', x=1823.71, y=101.00, z=903.46] died, message: 'Farmer was slain by Zombie'
+[04Oct2025 07:00:52.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Suit Up]
+[04Oct2025 07:00:58.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/59855, l='ServerLevel[world]', x=1796.50, y=125.00, z=959.70] died, message: 'Unemployed was slain by Zombie'
+[04Oct2025 07:01:41.241] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Oct2025 07:01:41.241] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Oct2025 07:02:48.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 07:02:48.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
