@@ -1117,3 +1117,8 @@ java.lang.IllegalStateException: not found
 [04Oct2025 07:22:42.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/85858, l='ServerLevel[world]', x=1755.53, y=36.05, z=3285.50] died, message: 'Unemployed drowned'
 [04Oct2025 07:24:09.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/87314, l='ServerLevel[world]', x=1412.49, y=34.00, z=3611.51] died, message: 'Leatherworker discovered the floor was lava'
 [04Oct2025 07:28:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Isn't It Iron Pick]
+[04Oct2025 07:36:53.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Amateur Archaeologist]
+[04Oct2025 07:37:11.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Isn't It Iron Pick]
+[04Oct2025 07:38:41.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Chest Slayer]
+[04Oct2025 07:39:17.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Diamonds!]
+[04Oct2025 07:45:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Diamonds!]

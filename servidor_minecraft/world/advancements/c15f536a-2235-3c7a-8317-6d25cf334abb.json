@@ -13,15 +13,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-10-04 07:38:24 +0000",
       "minecraft:sunflower_plains": "2025-10-04 05:59:22 +0000",
       "minecraft:birch_forest": "2025-10-04 07:26:18 +0000",
+      "minecraft:windswept_hills": "2025-10-04 07:42:43 +0000",
       "minecraft:savanna_plateau": "2025-10-04 06:47:59 +0000",
+      "minecraft:beach": "2025-10-04 07:37:19 +0000",
+      "minecraft:dark_forest": "2025-10-04 07:40:21 +0000",
       "minecraft:stony_peaks": "2025-10-04 07:19:13 +0000",
       "minecraft:sparse_jungle": "2025-10-04 06:44:12 +0000",
       "minecraft:river": "2025-10-04 05:35:55 +0000",
       "minecraft:stony_shore": "2025-10-04 06:45:00 +0000",
       "minecraft:forest": "2025-10-04 05:23:31 +0000",
       "minecraft:jungle": "2025-10-04 06:43:12 +0000",
+      "minecraft:ocean": "2025-10-04 07:37:33 +0000",
+      "minecraft:windswept_savanna": "2025-10-04 07:39:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-04 07:30:31 +0000",
       "minecraft:savanna": "2025-10-04 06:46:48 +0000",
       "minecraft:plains": "2025-10-04 05:38:12 +0000"
@@ -832,6 +838,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-10-04 07:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-10-04 06:36:24 +0000"
@@ -1138,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-10-04 05:32:10 +0000"
@@ -1282,9 +1300,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-10-04 05:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
     },
     "done": true
   },
@@ -1397,6 +1427,12 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-10-04 06:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
     },
     "done": true
   },
@@ -1556,6 +1592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-10-04 05:42:43 +0000"
@@ -1595,6 +1637,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-10-04 05:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
     },
     "done": true
   },
@@ -1844,6 +1898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-10-04 05:45:54 +0000"
@@ -1943,6 +2003,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-10-04 06:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-10-04 07:37:49 +0000"
     },
     "done": true
   },
