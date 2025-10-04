@@ -1163,3 +1163,41 @@ java.lang.IllegalStateException: not found
 [04Oct2025 08:36:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [We Need to Go Deeper]
 [04Oct2025 08:36:26.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved too quickly! 0.40403165893394544,4.095144069127514,-9.350176777051445
 [04Oct2025 08:36:26.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[04Oct2025 08:38:28.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive was kicked for floating too long!
+[04Oct2025 08:38:28.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Flying is not enabled on this server
+[04Oct2025 08:38:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[04Oct2025 08:38:28.360] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:38:28.360] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[04Oct2025 08:38:37.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:51257] logged in with entity id 142356 at (3693.8502245373297, 65.16589434553896, 629.4701570092409)
+[04Oct2025 08:38:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[04Oct2025 08:38:37.722] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[04Oct2025 08:38:37.723] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:38:38.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[04Oct2025 08:38:38.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[04Oct2025 08:39:26.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive was kicked for floating too long!
+[04Oct2025 08:39:26.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Flying is not enabled on this server
+[04Oct2025 08:39:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[04Oct2025 08:39:26.210] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:39:26.211] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[04Oct2025 08:39:33.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:55319] logged in with entity id 142705 at (3696.8611798198494, 68.86589434553892, 625.2358709120148)
+[04Oct2025 08:39:33.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[04Oct2025 08:39:33.660] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[04Oct2025 08:39:33.661] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:39:33.936] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[04Oct2025 08:39:33.936] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[04Oct2025 08:39:39.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive was kicked for floating too long!
+[04Oct2025 08:39:39.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Flying is not enabled on this server
+[04Oct2025 08:39:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[04Oct2025 08:39:39.304] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:39:39.305] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[04Oct2025 08:39:46.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:42041] logged in with entity id 142786 at (3693.6007496478396, 64.41589434553917, 631.8817104739385)
+[04Oct2025 08:39:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[04Oct2025 08:39:46.465] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[04Oct2025 08:39:46.465] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:39:46.758] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[04Oct2025 08:39:46.758] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[04Oct2025 08:40:08.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 was shot by moonthrive
+[04Oct2025 08:43:15.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was shot by Zairos_ALT
+[04Oct2025 08:43:28.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT was blown up by Panchito232027
+[04Oct2025 08:44:50.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> a
+[04Oct2025 08:45:06.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported moonthrive to Zairos_ALT
