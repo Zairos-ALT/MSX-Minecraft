@@ -1111,3 +1111,5 @@ java.lang.IllegalStateException: not found
 [04Oct2025 06:58:35.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/60001, l='ServerLevel[world]', x=1823.71, y=101.00, z=903.46] died, message: 'Farmer was slain by Zombie'
 [04Oct2025 07:00:52.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Suit Up]
 [04Oct2025 07:00:58.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/59855, l='ServerLevel[world]', x=1796.50, y=125.00, z=959.70] died, message: 'Unemployed was slain by Zombie'
+[04Oct2025 07:09:16.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Best Friends Forever]
+[04Oct2025 07:13:29.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/78697, l='ServerLevel[world]', x=1958.48, y=36.05, z=2931.44] died, message: 'Leatherworker drowned'

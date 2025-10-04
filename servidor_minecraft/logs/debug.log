@@ -6416,3 +6416,14 @@ java.lang.IllegalStateException: not found
 [04Oct2025 07:01:41.241] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [04Oct2025 07:02:48.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Oct2025 07:02:48.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 07:05:01.341] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Oct2025 07:07:48.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 07:07:48.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 07:08:21.251] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Oct2025 07:09:16.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Best Friends Forever]
+[04Oct2025 07:11:41.257] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Oct2025 07:11:41.257] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Oct2025 07:12:48.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 07:12:48.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 07:13:29.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/78697, l='ServerLevel[world]', x=1958.48, y=36.05, z=2931.44] died, message: 'Leatherworker drowned'
+[04Oct2025 07:15:01.353] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
