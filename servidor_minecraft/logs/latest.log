@@ -1201,3 +1201,62 @@ java.lang.IllegalStateException: not found
 [04Oct2025 08:43:28.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT was blown up by Panchito232027
 [04Oct2025 08:44:50.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> a
 [04Oct2025 08:45:06.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported moonthrive to Zairos_ALT
+[04Oct2025 08:47:13.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was blown up by Creeper
+[04Oct2025 08:47:19.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported moonthrive to Zairos_ALT
+[04Oct2025 08:50:50.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manolo (vehicle of moonthrive) moved wrongly! 0.3389463860902424
+[04Oct2025 08:50:50.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manolo (vehicle of moonthrive) moved wrongly! 0.7380474116077949
+[04Oct2025 08:50:50.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manolo (vehicle of moonthrive) moved wrongly! 1.154638382298117
+[04Oct2025 08:50:50.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manolo (vehicle of moonthrive) moved wrongly! 1.4960960989795922
+[04Oct2025 08:50:50.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manolo (vehicle of moonthrive) moved wrongly! 1.8007664326804615
+[04Oct2025 08:50:50.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manolo (vehicle of moonthrive) moved wrongly! 1.9637894537726197
+[04Oct2025 08:53:11.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/138771, l='ServerLevel[world]', x=3545.50, y=-9.44, z=777.50] died, message: 'Cartographer suffocated in a wall'
+[04Oct2025 08:58:16.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive was kicked for floating too long!
+[04Oct2025 08:58:16.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Flying is not enabled on this server
+[04Oct2025 08:58:16.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[04Oct2025 08:58:16.860] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:58:16.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[04Oct2025 08:58:24.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:58067] logged in with entity id 148974 at (3730.2213956250475, 71.40220334025395, 795.6132051116286)
+[04Oct2025 08:58:24.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[04Oct2025 08:58:24.950] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[04Oct2025 08:58:24.951] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:58:25.239] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[04Oct2025 08:58:25.239] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[04Oct2025 08:58:30.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive was kicked for floating too long!
+[04Oct2025 08:58:30.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Flying is not enabled on this server
+[04Oct2025 08:58:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[04Oct2025 08:58:30.660] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:58:30.660] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[04Oct2025 08:58:37.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:40657] logged in with entity id 149122 at (3724.6112313628296, 66.9522033402542, 791.818536094184)
+[04Oct2025 08:58:37.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[04Oct2025 08:58:37.601] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[04Oct2025 08:58:37.601] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:58:37.890] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[04Oct2025 08:58:37.890] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[04Oct2025 09:01:31.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[04Oct2025 09:01:31.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[04Oct2025 09:01:31.006] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 09:01:31.007] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[04Oct2025 09:08:22.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 lost connection: Disconnected
+[04Oct2025 09:08:22.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 left the game
+[04Oct2025 09:08:22.554] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 749f8587-c72f-3762-93a0-836ddf8ff558
+[04Oct2025 09:08:22.554] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Panchito232027
+[04Oct2025 09:08:42.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Disconnected
+[04Oct2025 09:08:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
+[04Oct2025 09:08:42.105] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c15f536a-2235-3c7a-8317-6d25cf334abb
+[04Oct2025 09:08:42.106] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairos_ALT
+[04Oct2025 09:08:51.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Oct2025 09:08:51.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Oct2025 09:08:51.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Oct2025 09:08:51.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Oct2025 09:08:51.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Oct2025 09:08:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Oct2025 09:08:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Oct2025 09:08:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Oct2025 09:08:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Oct2025 09:08:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Oct2025 09:08:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Oct2025 09:08:54.149] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Oct2025 09:08:54.150] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[04Oct2025 09:08:54.157] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[04Oct2025 09:08:54.158] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[04Oct2025 09:08:54.159] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
