@@ -967,3 +967,26 @@ java.lang.IllegalStateException: not found
 [04Oct2025 05:51:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Stone Age]
 [04Oct2025 05:52:01.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Not Today, Thank You]
 [04Oct2025 05:52:34.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Suit Up]
+[04Oct2025 05:54:37.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Monster Hunter]
+[04Oct2025 05:55:21.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Sweet Dreams]
+[04Oct2025 05:56:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Getting an Upgrade]
+[04Oct2025 05:56:30.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Sweet Dreams]
+[04Oct2025 05:59:28.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7697, l='ServerLevel[world]', x=586.94, y=-11.06, z=18.65] died, message: 'Farmer burned to death'
+[04Oct2025 06:02:21.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Ferrous Wroughtnaut
+[04Oct2025 06:02:29.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Ferrous Wroughtnaut
+[04Oct2025 06:05:10.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Ferrous Wroughtnaut
+[04Oct2025 06:09:15.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Monster Hunter]
+[04Oct2025 06:09:29.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3780, l='ServerLevel[world]', x=269.39, y=71.00, z=27.70] died, message: 'Unemployed was slain by Zombie'
+[04Oct2025 06:13:16.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Panchito232027[/127.119.39.235:39445] logged in with entity id 22051 at (280.01249998807907, 14.0, 45.69817734042997)
+[04Oct2025 06:13:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 joined the game
+[04Oct2025 06:13:16.670] [Server thread/INFO] [Jade/]: Syncing config to Panchito232027 (749f8587-c72f-3762-93a0-836ddf8ff558)
+[04Oct2025 06:13:16.671] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 749f8587-c72f-3762-93a0-836ddf8ff558
+[04Oct2025 06:13:17.522] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Panchito232027 (20)
+[04Oct2025 06:13:17.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Panchito232027
+[04Oct2025 06:13:30.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Panchito232027> un tp de chill
+[04Oct2025 06:13:34.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Panchito232027> plis?
+[04Oct2025 06:13:37.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> nop
+[04Oct2025 06:13:43.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 was doomed to fall by Creeper
+[04Oct2025 06:13:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Panchito232027> estoy encerrado
+[04Oct2025 06:13:54.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Panchito232027> en la capa 14
+[04Oct2025 06:13:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairos_ALT> 318 45 las cord
