@@ -6462,3 +6462,32 @@ java.lang.IllegalStateException: not found
 [04Oct2025 07:42:54.681] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of moonthrive: {disabled=false, disconnected=true, uuid=214dd996-63b0-3077-94a2-3314ae55fb9f, name=moonthrive, group=null}
 [04Oct2025 07:45:01.491] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
 [04Oct2025 07:45:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Diamonds!]
+[04Oct2025 07:47:48.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 07:47:48.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 07:48:21.441] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Oct2025 07:48:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Best Friends Forever]
+[04Oct2025 07:51:13.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [You Monster...]
+[04Oct2025 07:51:16.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zairos_ALT) moved wrongly! 0.33696197582139575
+[04Oct2025 07:51:16.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zairos_ALT) moved wrongly! 0.7072558026588922
+[04Oct2025 07:51:16.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zairos_ALT) moved wrongly! 1.0780973085834376
+[04Oct2025 07:51:41.441] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Oct2025 07:51:41.441] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Oct2025 07:52:48.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 07:52:48.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 07:53:36.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 3667
+[04Oct2025 07:53:45.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 656
+[04Oct2025 07:55:01.501] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Oct2025 07:56:50.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/110180, l='ServerLevel[world]', x=2331.70, y=-25.95, z=2840.30] died, message: 'Toolsmith drowned'
+[04Oct2025 07:57:48.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 07:57:48.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 07:58:21.491] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Oct2025 08:00:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Chest Slayer]
+[04Oct2025 08:00:06.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Amateur Archaeologist]
+[04Oct2025 08:00:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Chest Slayer]
+[04Oct2025 08:01:41.491] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Oct2025 08:01:41.491] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Oct2025 08:01:53.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/116675, l='ServerLevel[world]', x=3014.43, y=45.05, z=1363.55] died, message: 'Leatherworker drowned'
+[04Oct2025 08:02:48.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 08:02:48.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 08:03:34.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/119842, l='ServerLevel[world]', x=3957.30, y=43.56, z=1141.50] died, message: 'Leatherworker suffocated in a wall'
+[04Oct2025 08:05:01.541] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!

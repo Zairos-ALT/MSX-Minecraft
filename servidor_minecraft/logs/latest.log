@@ -1122,3 +1122,16 @@ java.lang.IllegalStateException: not found
 [04Oct2025 07:38:41.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Chest Slayer]
 [04Oct2025 07:39:17.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Diamonds!]
 [04Oct2025 07:45:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Diamonds!]
+[04Oct2025 07:48:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Best Friends Forever]
+[04Oct2025 07:51:13.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [You Monster...]
+[04Oct2025 07:51:16.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zairos_ALT) moved wrongly! 0.33696197582139575
+[04Oct2025 07:51:16.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zairos_ALT) moved wrongly! 0.7072558026588922
+[04Oct2025 07:51:16.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zairos_ALT) moved wrongly! 1.0780973085834376
+[04Oct2025 07:53:36.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 3667
+[04Oct2025 07:53:45.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 656
+[04Oct2025 07:56:50.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/110180, l='ServerLevel[world]', x=2331.70, y=-25.95, z=2840.30] died, message: 'Toolsmith drowned'
+[04Oct2025 08:00:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Chest Slayer]
+[04Oct2025 08:00:06.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Amateur Archaeologist]
+[04Oct2025 08:00:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Chest Slayer]
+[04Oct2025 08:01:53.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/116675, l='ServerLevel[world]', x=3014.43, y=45.05, z=1363.55] died, message: 'Leatherworker drowned'
+[04Oct2025 08:03:34.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/119842, l='ServerLevel[world]', x=3957.30, y=43.56, z=1141.50] died, message: 'Leatherworker suffocated in a wall'
