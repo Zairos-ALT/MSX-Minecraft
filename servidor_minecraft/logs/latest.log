@@ -1137,3 +1137,29 @@ java.lang.IllegalStateException: not found
 [04Oct2025 08:03:34.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/119842, l='ServerLevel[world]', x=3957.30, y=43.56, z=1141.50] died, message: 'Leatherworker suffocated in a wall'
 [04Oct2025 08:08:58.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 fell from a high place
 [04Oct2025 08:13:08.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/105956, l='ServerLevel[world]', x=3535.52, y=-9.44, z=777.50] died, message: 'Fletcher suffocated in a wall'
+[04Oct2025 08:32:53.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Hot Stuff]
+[04Oct2025 08:35:30.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive was kicked for floating too long!
+[04Oct2025 08:35:30.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Flying is not enabled on this server
+[04Oct2025 08:35:30.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[04Oct2025 08:35:30.920] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:35:30.921] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[04Oct2025 08:35:43.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:49547] logged in with entity id 138254 at (3685.9623465874774, 94.62595791899102, 834.4453849758855)
+[04Oct2025 08:35:43.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[04Oct2025 08:35:43.140] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[04Oct2025 08:35:43.141] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:35:43.498] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[04Oct2025 08:35:43.499] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[04Oct2025 08:35:49.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive was kicked for floating too long!
+[04Oct2025 08:35:49.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Flying is not enabled on this server
+[04Oct2025 08:35:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[04Oct2025 08:35:49.068] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:35:49.068] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[04Oct2025 08:35:56.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:45393] logged in with entity id 138596 at (3680.053109248789, 90.17595791899127, 830.1688920058009)
+[04Oct2025 08:35:56.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[04Oct2025 08:35:56.482] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[04Oct2025 08:35:56.483] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 214dd996-63b0-3077-94a2-3314ae55fb9f
+[04Oct2025 08:35:56.784] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[04Oct2025 08:35:56.785] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[04Oct2025 08:36:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [We Need to Go Deeper]
+[04Oct2025 08:36:26.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved too quickly! 0.40403165893394544,4.095144069127514,-9.350176777051445
+[04Oct2025 08:36:26.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
