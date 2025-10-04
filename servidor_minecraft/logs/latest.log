@@ -1113,3 +1113,7 @@ java.lang.IllegalStateException: not found
 [04Oct2025 07:00:58.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/59855, l='ServerLevel[world]', x=1796.50, y=125.00, z=959.70] died, message: 'Unemployed was slain by Zombie'
 [04Oct2025 07:09:16.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Best Friends Forever]
 [04Oct2025 07:13:29.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/78697, l='ServerLevel[world]', x=1958.48, y=36.05, z=2931.44] died, message: 'Leatherworker drowned'
+[04Oct2025 07:19:50.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/81750, l='ServerLevel[world]', x=1675.70, y=39.56, z=3067.50] died, message: 'Leatherworker suffocated in a wall'
+[04Oct2025 07:22:42.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/85858, l='ServerLevel[world]', x=1755.53, y=36.05, z=3285.50] died, message: 'Unemployed drowned'
+[04Oct2025 07:24:09.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/87314, l='ServerLevel[world]', x=1412.49, y=34.00, z=3611.51] died, message: 'Leatherworker discovered the floor was lava'
+[04Oct2025 07:28:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Isn't It Iron Pick]
