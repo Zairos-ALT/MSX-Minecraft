@@ -1107,3 +1107,16 @@ java.lang.IllegalStateException: not found
 [05Oct2025 05:14:32.145] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
 [05Oct2025 05:15:43.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Knowledge raises the soul]
 [05Oct2025 05:15:52.683] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Oct2025 05:40:21.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Oct2025 05:40:21.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Oct2025 05:43:16.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84842, l='ServerLevel[PapuLandia]', x=195.37, y=62.92, z=-36.86] died, message: 'Unemployed was slain by Zombie'
+[05Oct2025 05:43:31.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84738, l='ServerLevel[PapuLandia]', x=194.78, y=62.40, z=-36.66] died, message: 'Unemployed was slain by Zombie'
+[05Oct2025 05:43:38.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/85256, l='ServerLevel[PapuLandia]', x=326.40, y=70.00, z=14.52] died, message: 'Fisherman was slain by Zombie'
+[05Oct2025 05:43:50.235] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=226, y=128, z=205}
+[05Oct2025 05:43:50.235] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=225, y=128, z=205}
+[05Oct2025 05:43:50.235] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=230, y=128, z=205}
+[05Oct2025 05:43:50.235] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=229, y=128, z=205}
+[05Oct2025 05:43:50.236] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=228, y=128, z=205}
+[05Oct2025 05:43:50.236] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=227, y=128, z=205}
+[05Oct2025 05:43:50.236] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=231, y=128, z=205}
+[05Oct2025 05:43:55.019] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84843, l='ServerLevel[PapuLandia]', x=194.55, y=63.14, z=-36.71] died, message: 'Unemployed was slain by Zombie'
