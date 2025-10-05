@@ -509,6 +509,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-10-05 08:24:27 +0000",
+      "apple": "2025-10-05 09:46:41 +0000",
       "bread": "2025-10-05 02:32:17 +0000",
       "golden_apple": "2025-10-05 07:07:56 +0000",
       "golden_carrot": "2025-10-05 08:02:51 +0000"
@@ -1663,6 +1664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2025-10-05 09:42:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-10-05 03:25:44 +0000"
@@ -2701,6 +2708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-10-05 09:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2025-10-05 07:42:43 +0000"
@@ -3178,6 +3191,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-10-05 08:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-10-05 09:43:11 +0000"
     },
     "done": true
   },
@@ -4486,6 +4505,12 @@
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-10-05 07:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-10-05 09:43:11 +0000"
     },
     "done": true
   },

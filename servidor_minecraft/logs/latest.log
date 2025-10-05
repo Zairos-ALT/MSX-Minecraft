@@ -1787,3 +1787,11 @@ java.lang.IllegalStateException: not found
 [05Oct2025 09:33:37.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 262
 [05Oct2025 09:33:52.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> -586
 [05Oct2025 09:35:10.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> eso
+[05Oct2025 09:47:42.428] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 09:47:42.429] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 09:47:44.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive froze to death
+[05Oct2025 09:47:44.435] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 09:50:32.191] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 09:50:32.192] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 09:50:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive fell from a high place
+[05Oct2025 09:52:22.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Chompy]
