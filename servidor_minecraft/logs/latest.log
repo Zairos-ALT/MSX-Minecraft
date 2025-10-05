@@ -1719,3 +1719,53 @@ java.lang.IllegalStateException: not found
 [05Oct2025 09:00:52.129] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
 [05Oct2025 09:00:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 tried to swim in lava
 [05Oct2025 09:00:57.138] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 09:01:43.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [Here They Come]
+[05Oct2025 09:01:49.730] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 09:01:49.731] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 09:01:57.279] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 09:01:57.280] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 09:02:37.733] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 09:02:37.734] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 09:03:01.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Oct2025 09:03:07.727] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 09:03:07.728] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 09:03:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 burned to death
+[05Oct2025 09:03:12.436] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 09:03:13.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [The Most Useful Key]
+[05Oct2025 09:03:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [A Fast Comeback]
+[05Oct2025 09:03:52.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[05Oct2025 09:03:52.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[05Oct2025 09:03:52.975] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 09:04:02.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:60523] logged in with entity id 217915 at (262.59447189896645, 35.0, -609.196526797031)
+[05Oct2025 09:04:02.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 09:04:02.536] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 09:04:02.836] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 09:04:02.836] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 09:04:24.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 lost connection: Disconnected
+[05Oct2025 09:04:24.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 left the game
+[05Oct2025 09:04:24.080] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Panchito232027
+[05Oct2025 09:04:37.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Panchito232027[/127.119.39.235:56679] logged in with entity id 218056 at (254.69999998807907, 35.0, -598.3000000119209)
+[05Oct2025 09:04:37.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 joined the game
+[05Oct2025 09:04:37.940] [Server thread/INFO] [Jade/]: Syncing config to Panchito232027 (749f8587-c72f-3762-93a0-836ddf8ff558)
+[05Oct2025 09:04:38.248] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Panchito232027 (20)
+[05Oct2025 09:04:38.248] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Panchito232027
+[05Oct2025 09:05:52.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Hidden in the Depths]
+[05Oct2025 09:06:30.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Oct2025 09:07:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [The Parrots and the Bats]
+[05Oct2025 09:09:47.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[05Oct2025 09:09:47.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[05Oct2025 09:09:47.842] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 09:09:56.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:50909] logged in with entity id 221312 at (99.18685572506872, 30.0, -626.8285712556965)
+[05Oct2025 09:09:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 09:09:56.922] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 09:09:57.214] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 09:09:57.216] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 09:11:22.907] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 09:11:22.935] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 09:12:28.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [War Pigs]
+[05Oct2025 09:13:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [We Need to Go Deeper]
+[05Oct2025 09:14:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Nightmare Fuel]
+[05Oct2025 09:15:58.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Hidden in the Depths]
+[05Oct2025 09:16:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [Great minds think alike]
+[05Oct2025 09:19:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Those Were the Days]
+[05Oct2025 09:19:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Hidden in the Depths]
