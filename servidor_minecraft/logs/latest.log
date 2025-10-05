@@ -1540,3 +1540,77 @@ java.lang.IllegalStateException: not found
 [05Oct2025 07:19:18.728] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
 [05Oct2025 07:19:22.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/153710, l='ServerLevel[PapuLandia]', x=2029.34, y=195.50, z=-3830.43] died: Gearling was slain by Zairos_ALT
 [05Oct2025 07:20:15.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152683, l='ServerLevel[PapuLandia]', x=2013.92, y=195.00, z=-3814.77] died: Gearling was slain by Panchito232027
+[05Oct2025 07:21:26.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:56587] logged in with entity id 156696 at (-321.0531468050289, 66.52906941194868, -382.9212467531325)
+[05Oct2025 07:21:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 07:21:26.949] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 07:21:28.194] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 07:21:28.195] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 07:22:17.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-514, y=76, z=-680}
+[05Oct2025 07:22:17.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-513, y=76, z=-680}
+[05Oct2025 07:22:17.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-502, y=76, z=-680}
+[05Oct2025 07:22:17.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-501, y=76, z=-680}
+[05Oct2025 07:22:17.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-504, y=76, z=-680}
+[05Oct2025 07:22:17.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=-503, y=76, z=-680}
+[05Oct2025 07:22:17.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-506, y=76, z=-680}
+[05Oct2025 07:22:17.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-505, y=76, z=-680}
+[05Oct2025 07:22:17.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-508, y=76, z=-680}
+[05Oct2025 07:22:17.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=-507, y=76, z=-680}
+[05Oct2025 07:22:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-498, y=76, z=-680}
+[05Oct2025 07:22:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-497, y=76, z=-680}
+[05Oct2025 07:22:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-500, y=76, z=-680}
+[05Oct2025 07:22:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-499, y=76, z=-680}
+[05Oct2025 07:22:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-510, y=76, z=-680}
+[05Oct2025 07:22:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-509, y=76, z=-680}
+[05Oct2025 07:22:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-512, y=76, z=-680}
+[05Oct2025 07:22:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-511, y=76, z=-680}
+[05Oct2025 07:22:18.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/157074, l='ServerLevel[PapuLandia]', x=-490.30, y=35.05, z=-570.57] died, message: 'Leatherworker drowned'
+[05Oct2025 07:22:57.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Cover Me with Diamonds]
+[05Oct2025 07:23:06.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/157778, l='ServerLevel[PapuLandia]', x=-538.70, y=38.05, z=-250.49] died, message: 'Leatherworker drowned'
+[05Oct2025 07:23:35.844] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 07:23:35.850] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:24:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Sneak 100]
+[05Oct2025 07:24:16.581] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 07:24:16.587] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:25:25.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/158537, l='ServerLevel[PapuLandia]', x=2018.48, y=224.00, z=-3772.51] died: Gearling fell from a high place
+[05Oct2025 07:25:40.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/158517, l='ServerLevel[PapuLandia]', x=2018.25, y=224.00, z=-3772.85] died: Gearling fell from a high place
+[05Oct2025 07:25:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Not Today, Thank You]
+[05Oct2025 07:27:21.586] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 07:27:21.603] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 07:27:26.487] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 07:27:26.497] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:27:38.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Husk
+[05Oct2025 07:27:51.625] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 07:27:51.643] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 07:28:03.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has reached the goal [Chain Death]
+[05Oct2025 07:28:03.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Husk
+[05Oct2025 07:28:26.924] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 07:28:26.944] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:28:34.173] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 07:28:34.190] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 07:28:49.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Husk
+[05Oct2025 07:29:03.929] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 07:29:03.946] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 07:29:11.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Husk
+[05Oct2025 07:31:15.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/162020, l='ServerLevel[PapuLandia]', x=134.53, y=65.00, z=32.30] died, message: 'Farmer was slain by Zombie'
+[05Oct2025 07:32:42.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/163655, l='ServerLevel[PapuLandia]', x=1966.31, y=212.00, z=-3801.15] died: Gearling was slain by Zairos_ALT
+[05Oct2025 07:33:41.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/164515, l='ServerLevel[PapuLandia]', x=-406.49, y=14.56, z=-455.49] died, message: 'Fletcher suffocated in a wall'
+[05Oct2025 07:35:11.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/164356, l='ServerLevel[PapuLandia]', x=-344.83, y=5.76, z=-396.63] died, message: 'Farmer tried to swim in lava'
+[05Oct2025 07:37:02.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/165314, l='ServerLevel[PapuLandia]', x=1961.57, y=224.00, z=-3867.29] died: Gearling hit the ground too hard
+[05Oct2025 07:37:40.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/166809, l='ServerLevel[PapuLandia]', x=1933.25, y=198.00, z=-3916.10] died: Gearling fell from a high place
+[05Oct2025 07:38:03.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/166771, l='ServerLevel[PapuLandia]', x=1933.15, y=203.00, z=-3915.37] died: Gearling fell from a high place
+[05Oct2025 07:38:20.374] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/164354, l='ServerLevel[PapuLandia]', x=-345.58, y=4.16, z=-395.70] died, message: 'Unemployed tried to swim in lava'
+[05Oct2025 07:38:23.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/166644, l='ServerLevel[PapuLandia]', x=1933.15, y=203.00, z=-3915.34] died: Gearling fell from a high place
+[05Oct2025 07:38:45.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167126, l='ServerLevel[PapuLandia]', x=1966.58, y=241.00, z=-3878.35] died: Gearling was blown up by Zairos_ALT
+[05Oct2025 07:38:45.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167063, l='ServerLevel[PapuLandia]', x=1970.39, y=241.00, z=-3879.85] died: Gearling was blown up by Zairos_ALT
+[05Oct2025 07:38:45.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167007, l='ServerLevel[PapuLandia]', x=1971.18, y=242.00, z=-3879.85] died: Gearling was blown up by Zairos_ALT
+[05Oct2025 07:38:45.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167218, l='ServerLevel[PapuLandia]', x=1970.55, y=242.15, z=-3879.85] died: Gearling was blown up by Zairos_ALT
+[05Oct2025 07:38:45.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167154, l='ServerLevel[PapuLandia]', x=1970.15, y=242.38, z=-3879.33] died: Gearling was blown up by Zairos_ALT
+[05Oct2025 07:38:45.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167246, l='ServerLevel[PapuLandia]', x=1968.94, y=241.00, z=-3875.75] died: Gearling was blown up by Zairos_ALT
+[05Oct2025 07:38:45.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167198, l='ServerLevel[PapuLandia]', x=1969.71, y=241.88, z=-3879.52] died: Gearling was blown up by Zairos_ALT
+[05Oct2025 07:38:45.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167208, l='ServerLevel[PapuLandia]', x=1969.12, y=241.54, z=-3879.10] died: Gearling was blown up by Zairos_ALT
+[05Oct2025 07:38:57.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167370, l='ServerLevel[PapuLandia]', x=1924.30, y=212.18, z=-3923.50] died: Gearling went off with a bang
+[05Oct2025 07:38:57.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167393, l='ServerLevel[PapuLandia]', x=1920.21, y=212.18, z=-3923.51] died: Gearling went off with a bang
+[05Oct2025 07:39:32.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167644, l='ServerLevel[PapuLandia]', x=1923.89, y=212.00, z=-3930.97] died: Gearling went off with a bang
+[05Oct2025 07:39:44.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Sneak 100]
+[05Oct2025 07:40:23.783] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 07:40:23.790] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
