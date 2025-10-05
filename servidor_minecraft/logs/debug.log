@@ -14453,3 +14453,78 @@ java.lang.IllegalStateException: not found
 [05Oct2025 07:39:44.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Sneak 100]
 [05Oct2025 07:40:23.783] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
 [05Oct2025 07:40:23.790] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:41:23.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT was slain by Wither Skeleton
+[05Oct2025 07:41:23.735] [Server thread/DEBUG] [tombstone/]: A new grave of the player Zairos_ALT was created at position [x:1967, y:246, z:-3864, dim:minecraft:overworld]
+[05Oct2025 07:41:25.687] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759650085682
+[05Oct2025 07:42:09.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 07:42:09.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 07:42:52.326] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 07:42:52.343] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:43:28.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT was slain by Wither Skeleton
+[05Oct2025 07:43:28.536] [Server thread/DEBUG] [tombstone/]: A new grave of the player Zairos_ALT was created at position [x:1960, y:256, z:-3870, dim:minecraft:overworld]
+[05Oct2025 07:43:29.930] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759650209925
+[05Oct2025 07:43:49.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has reached the goal [Bone Crusher]
+[05Oct2025 07:44:18.488] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Panchito232027: {disabled=true, disconnected=true, uuid=749f8587-c72f-3762-93a0-836ddf8ff558, name=Panchito232027, group=null}
+[05Oct2025 07:46:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Ambush]
+[05Oct2025 07:46:28.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/170996, l='ServerLevel[PapuLandia]', x=-345.62, y=4.28, z=-395.43] died, message: 'Toolsmith tried to swim in lava'
+[05Oct2025 07:47:09.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 07:47:09.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 07:52:09.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 07:52:09.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 07:54:11.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/173450, l='ServerLevel[PapuLandia]', x=1959.78, y=292.88, z=-3867.67] died: Gearling was slain by Zairos_ALT
+[05Oct2025 07:54:28.274] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 07:54:28.287] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:54:28.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/173465, l='ServerLevel[PapuLandia]', x=1955.14, y=297.00, z=-3867.84] died: Gearling was slain by Zairos_ALT
+[05Oct2025 07:54:36.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [You Monster...]
+[05Oct2025 07:54:39.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/173181, l='ServerLevel[PapuLandia]', x=1955.91, y=297.06, z=-3864.82] died: Gearling burned to death
+[05Oct2025 07:54:43.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT was slain by Gearling
+[05Oct2025 07:54:43.053] [Server thread/DEBUG] [tombstone/]: A new grave of the player Zairos_ALT was created at position [x:1956, y:297, z:-3865, dim:minecraft:overworld]
+[05Oct2025 07:54:47.097] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759650887073
+[05Oct2025 07:57:00.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/174848, l='ServerLevel[PapuLandia]', x=-345.29, y=5.00, z=-396.56] died, message: 'Unemployed tried to swim in lava'
+[05Oct2025 07:57:08.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/174841, l='ServerLevel[PapuLandia]', x=-346.20, y=4.00, z=-393.73] died, message: 'Farmer tried to swim in lava'
+[05Oct2025 07:57:09.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 07:57:09.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 07:58:20.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176053, l='ServerLevel[PapuLandia]', x=2060.34, y=229.00, z=-3891.34] died: Gearling was blown up by Creeper
+[05Oct2025 07:58:20.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176999, l='ServerLevel[PapuLandia]', x=2060.92, y=229.00, z=-3891.50] died: Gearling was blown up by Creeper
+[05Oct2025 07:58:20.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176023, l='ServerLevel[PapuLandia]', x=2058.66, y=229.42, z=-3887.43] died: Gearling was blown up by Creeper
+[05Oct2025 07:58:49.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/174846, l='ServerLevel[PapuLandia]', x=-347.56, y=4.00, z=-395.38] died, message: 'Farmer hit the ground too hard'
+[05Oct2025 07:59:24.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/177140, l='ServerLevel[PapuLandia]', x=2073.34, y=229.00, z=-3862.56] died: Gearling went off with a bang
+[05Oct2025 08:01:18.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Sneak 100]
+[05Oct2025 08:02:09.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 08:02:09.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 08:04:18.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Where Is The Stone Pen?]
+[05Oct2025 08:04:23.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has reached the goal [Spectral Guardian]
+[05Oct2025 08:04:44.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-657, y=-52, z=-293} BlockPos{x=-656, y=-52, z=-294}
+[05Oct2025 08:04:44.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=-52, z=-294} BlockPos{x=-656, y=-52, z=-294}
+[05Oct2025 08:06:54.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=2036, y=70, z=-4691}
+[05Oct2025 08:06:54.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=2035, y=70, z=-4691}
+[05Oct2025 08:06:54.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=2034, y=70, z=-4691}
+[05Oct2025 08:06:54.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=2033, y=70, z=-4691}
+[05Oct2025 08:06:54.026] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=2039, y=70, z=-4691}
+[05Oct2025 08:06:54.028] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=2038, y=70, z=-4691}
+[05Oct2025 08:06:54.028] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=2037, y=70, z=-4691}
+[05Oct2025 08:07:09.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 08:07:09.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 08:07:49.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Sculk Cymbal]
+[05Oct2025 08:08:51.002] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 08:08:51.003] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 08:12:09.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 08:12:09.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 08:13:16.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Birds of a Feather]
+[05Oct2025 08:13:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Birds of a Feather]
+[05Oct2025 08:14:00.885] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 08:14:00.886] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 08:16:06.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has completed the challenge [Praise the Sun]
+[05Oct2025 08:17:09.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 08:17:09.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 08:17:34.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported moonthrive to Zairos_ALT
+[05Oct2025 08:21:18.186] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 08:21:18.188] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 08:21:54.107] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 08:21:54.131] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 08:22:09.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 08:22:09.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 08:27:09.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 08:27:09.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 08:29:55.581] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Zairos_ALT: {disabled=false, disconnected=true, uuid=c15f536a-2235-3c7a-8317-6d25cf334abb, name=Zairos_ALT, group=null}
+[05Oct2025 08:30:59.729] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/197199, l='ServerLevel[PapuLandia]', x=2308.50, y=79.56, z=-4981.50] died, message: 'Unemployed suffocated in a wall'
