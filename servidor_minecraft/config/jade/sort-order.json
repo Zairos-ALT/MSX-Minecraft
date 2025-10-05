@@ -19,6 +19,8 @@
   "minecraft:progress": null,
   "minecraft:redstone": null,
   "minecraft:zombie_villager": null,
+  "reliquary:altar": null,
+  "reliquary:mortar": null,
   "supplementaries:present": null,
   "supplementaries:safe": null
 }
