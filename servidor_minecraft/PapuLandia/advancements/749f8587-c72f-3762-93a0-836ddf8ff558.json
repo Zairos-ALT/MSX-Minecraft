@@ -1286,6 +1286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-10-05 07:54:25 +0000"
@@ -1357,6 +1363,12 @@
       "has_eye_of_the_storm": "2025-10-05 07:16:16 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-10-05 08:56:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
@@ -1472,6 +1484,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-10-05 08:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-10-05 08:40:27 +0000"
@@ -1532,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-10-05 07:07:52 +0000"
@@ -1550,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-10-05 08:52:43 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/misc/reinforced_paper": {
     "criteria": {
       "has_crafting_table": "2025-10-05 07:43:49 +0000"
@@ -1562,9 +1592,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-10-05 08:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-10-05 07:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
     },
     "done": true
   },
@@ -1712,6 +1754,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-10-05 08:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-10-05 07:17:31 +0000"
@@ -1745,6 +1793,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-10-05 07:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
     },
     "done": true
   },
@@ -2006,6 +2060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-10-05 08:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-10-05 07:07:52 +0000"
@@ -2093,6 +2153,18 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-10-05 07:31:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-10-05 08:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
     },
     "done": true
   },
@@ -2192,6 +2264,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-10-05 08:56:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-10-05 08:40:27 +0000"
@@ -2213,6 +2297,12 @@
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-10-05 07:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
     },
     "done": true
   },
@@ -2378,6 +2468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-10-05 07:17:31 +0000"
@@ -2504,6 +2600,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-10-05 08:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-10-05 08:41:51 +0000"
@@ -2513,6 +2615,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-10-05 07:53:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-10-05 08:55:50 +0000"
     },
     "done": true
   },
@@ -2603,6 +2711,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-10-05 07:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-10-05 08:49:34 +0000"
     },
     "done": true
   },

@@ -2038,6 +2038,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-10-05 08:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-10-05 05:34:38 +0000"
@@ -2427,6 +2433,12 @@
       "has_chicken": "2025-10-05 03:49:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-10-05 08:52:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
@@ -3193,6 +3205,12 @@
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-10-05 07:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-10-05 08:55:27 +0000"
     },
     "done": true
   },
