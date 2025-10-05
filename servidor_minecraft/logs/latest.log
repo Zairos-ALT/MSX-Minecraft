@@ -724,3 +724,78 @@ java.lang.IllegalStateException: not found
 [05Oct2025 03:36:22.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=175, y=87, z=-648}
 [05Oct2025 03:36:22.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=174, y=87, z=-648}
 [05Oct2025 03:36:38.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Stone Age]
+[05Oct2025 03:37:13.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Acquire Hardware]
+[05Oct2025 03:38:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Ice Bucket Challenge]
+[05Oct2025 03:38:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Magic Writing]
+[05Oct2025 03:39:24.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Where Is The Stone Pen?]
+[05Oct2025 03:39:55.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Disconnected
+[05Oct2025 03:39:55.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[05Oct2025 03:39:55.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[05Oct2025 03:40:10.468] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md7c7b0b$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md7c7b0b$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[05Oct2025 03:40:10.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:43069] logged in with entity id 15898 at (137.69339871444507, 63.0, 101.59107077456459)
+[05Oct2025 03:40:10.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[05Oct2025 03:40:10.551] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[05Oct2025 03:40:11.517] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[05Oct2025 03:40:11.517] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[05Oct2025 03:41:07.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Amateur Archaeologist]
+[05Oct2025 03:42:21.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Not Today, Thank You]
+[05Oct2025 03:42:40.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[05Oct2025 03:42:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[05Oct2025 03:42:40.894] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[05Oct2025 03:43:06.638] [ForkJoinPool.commonPool-worker-18/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md7c7b0b$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md7c7b0b$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[05Oct2025 03:43:06.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:59167] logged in with entity id 17084 at (137.3053635876192, 63.0, 112.3540648090238)
+[05Oct2025 03:43:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[05Oct2025 03:43:06.754] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[05Oct2025 03:43:07.559] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[05Oct2025 03:43:07.559] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[05Oct2025 03:45:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Chest Slayer]
+[05Oct2025 03:45:15.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Amateur Archaeologist]
+[05Oct2025 03:47:26.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Voluntary Exile]
+[05Oct2025 03:47:29.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has reached the goal [Fortuitous Militia]
+[05Oct2025 03:49:23.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Knowledge of Death]
+[05Oct2025 03:49:23.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Ashes 'n Bones]
+[05Oct2025 03:49:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Diamonds!]
+[05Oct2025 03:53:00.120] [Server thread/INFO] [tombstone/]: The player MaximoGB23 has successfully been saved
+[05Oct2025 03:53:06.858] [Server thread/WARN] [tombstone/]: The death event of the player MaximoGB23 was canceled by another mod
+[05Oct2025 03:53:06.886] [Server thread/INFO] [tombstone/]: The player MaximoGB23 has successfully been saved
+[05Oct2025 03:54:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 was slain by Skeleton
+[05Oct2025 03:54:06.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Your First Grave]
+[05Oct2025 03:55:43.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/17150, l='ServerLevel[PapuLandia]', x=161.50, y=-14.44, z=221.50] died, message: 'Cartographer suffocated in a wall'
+[05Oct2025 03:56:14.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Knowledge of Death]
+[05Oct2025 03:56:14.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Ashes 'n Bones]
