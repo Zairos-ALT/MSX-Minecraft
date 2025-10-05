@@ -410,7 +410,9 @@
       "minecraft:savanna_plateau": "2025-10-05 08:10:14 +0000",
       "minecraft:beach": "2025-10-05 05:01:12 +0000",
       "minecraft:dark_forest": "2025-10-05 06:34:18 +0000",
+      "minecraft:lukewarm_ocean": "2025-10-05 10:05:29 +0000",
       "minecraft:river": "2025-10-05 03:11:13 +0000",
+      "minecraft:stony_shore": "2025-10-05 10:05:17 +0000",
       "minecraft:swamp": "2025-10-05 04:47:01 +0000",
       "minecraft:forest": "2025-10-05 04:15:05 +0000",
       "minecraft:ocean": "2025-10-05 04:51:22 +0000",
@@ -2210,6 +2212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-10-05 10:09:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-10-05 03:54:45 +0000"
@@ -2918,6 +2926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-10-05 10:09:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-05 09:00:45 +0000"
@@ -3188,6 +3202,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-10-05 10:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-10-05 08:17:19 +0000"
@@ -3263,6 +3283,12 @@
   "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
     "criteria": {
       "has_witch_hat": "2025-10-05 03:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-10-05 10:09:57 +0000"
     },
     "done": true
   },
@@ -3419,6 +3445,12 @@
   "create:recipes/misc/crafting/logistics/desk_bell": {
     "criteria": {
       "has_item": "2025-10-05 03:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-10-05 10:09:57 +0000"
     },
     "done": true
   },
@@ -4721,6 +4753,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-10-05 06:44:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-10-05 10:04:42 +0000"
     },
     "done": true
   },

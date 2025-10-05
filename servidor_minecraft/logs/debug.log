@@ -15558,3 +15558,35 @@ java.lang.IllegalStateException: not found
 [05Oct2025 10:02:24.984] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
 [05Oct2025 10:02:31.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Enderman
 [05Oct2025 10:02:33.323] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759658553317
+[05Oct2025 10:03:47.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=56, z=-169} BlockPos{x=-5, y=54, z=-169}
+[05Oct2025 10:03:47.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=56, z=-168} BlockPos{x=-5, y=54, z=-169}
+[05Oct2025 10:03:56.075] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 10:03:56.086] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:04:02.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Enderman
+[05Oct2025 10:04:02.781] [Server thread/DEBUG] [tombstone/]: A new grave of the player moonthrive was created at position [x:-3, y:62, z:-154, dim:minecraft:overworld]
+[05Oct2025 10:04:04.336] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759658644335
+[05Oct2025 10:04:42.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Pic-A-Nic Basket?]
+[05Oct2025 10:07:09.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 10:07:09.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 10:07:27.714] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 10:07:27.734] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:07:34.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Crocodile
+[05Oct2025 10:07:34.632] [Server thread/DEBUG] [tombstone/]: A new grave of the player moonthrive was created at position [x:18, y:63, z:-224, dim:minecraft:overworld]
+[05Oct2025 10:07:36.384] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759658856358
+[05Oct2025 10:07:57.507] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[05Oct2025 10:07:57.507] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[05Oct2025 10:08:06.126] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 10:08:06.139] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:08:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Enderman
+[05Oct2025 10:08:12.680] [Server thread/DEBUG] [tombstone/]: A new grave of the player moonthrive was created at position [x:18, y:67, z:-220, dim:minecraft:overworld]
+[05Oct2025 10:08:14.801] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759658894785
+[05Oct2025 10:10:11.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=2589, y=76, z=-4589}
+[05Oct2025 10:10:11.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=2587, y=84, z=-4589}
+[05Oct2025 10:10:11.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=2583, y=84, z=-4589}
+[05Oct2025 10:10:11.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=2591, y=70, z=-4589}
+[05Oct2025 10:12:09.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 10:12:09.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 10:12:21.122] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 10:12:21.132] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:12:27.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Zombie
+[05Oct2025 10:12:29.428] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759659149428
