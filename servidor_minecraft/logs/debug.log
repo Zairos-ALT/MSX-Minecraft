@@ -15590,3 +15590,58 @@ java.lang.IllegalStateException: not found
 [05Oct2025 10:12:21.132] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
 [05Oct2025 10:12:27.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Zombie
 [05Oct2025 10:12:29.428] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759659149428
+[05Oct2025 10:14:59.623] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 10:14:59.625] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:15:04.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive drowned
+[05Oct2025 10:15:04.623] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:15:06.124] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759659306119
+[05Oct2025 10:15:36.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Pic-A-Nic Basket?]
+[05Oct2025 10:15:41.613] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 10:15:41.631] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:15:51.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Grizzly Bear
+[05Oct2025 10:15:52.727] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759659352727
+[05Oct2025 10:16:42.418] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 10:16:42.425] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:16:48.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Enderman
+[05Oct2025 10:16:48.628] [Server thread/DEBUG] [tombstone/]: A new grave of the player moonthrive was created at position [x:-53, y:68, z:-42, dim:minecraft:overworld]
+[05Oct2025 10:16:50.272] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759659410272
+[05Oct2025 10:17:09.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 10:17:09.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 10:17:47.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/252334, l='ServerLevel[PapuLandia]', x=-258.55, y=-7.05, z=14.58] died, message: 'Farmer drowned'
+[05Oct2025 10:17:52.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[05Oct2025 10:17:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[05Oct2025 10:17:52.777] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of moonthrive
+[05Oct2025 10:17:52.777] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 10:21:09.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Disconnected
+[05Oct2025 10:21:09.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
+[05Oct2025 10:21:09.216] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Zairos_ALT
+[05Oct2025 10:21:09.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairos_ALT
+[05Oct2025 10:21:25.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Oct2025 10:21:25.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Oct2025 10:21:25.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Oct2025 10:21:25.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Oct2025 10:21:25.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PapuLandia]'/minecraft:overworld
+[05Oct2025 10:21:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PapuLandia]'/minecraft:the_end
+[05Oct2025 10:21:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PapuLandia]'/minecraft:the_nether
+[05Oct2025 10:21:26.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 10:21:26.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 10:21:26.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PapuLandia): All chunks are saved
+[05Oct2025 10:21:26.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Oct2025 10:21:26.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Oct2025 10:21:26.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Oct2025 10:21:26.084] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Link-Wildcard: Removed Redstone Network Wildcards for minecraft:overworld
+[05Oct2025 10:21:26.085] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[05Oct2025 10:21:26.085] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[05Oct2025 10:21:27.150] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Link-Wildcard: Removed Redstone Network Wildcards for minecraft:the_end
+[05Oct2025 10:21:27.150] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[05Oct2025 10:21:27.150] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[05Oct2025 10:21:27.150] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Link-Wildcard: Removed Redstone Network Wildcards for minecraft:the_nether
+[05Oct2025 10:21:27.150] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[05Oct2025 10:21:27.150] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[05Oct2025 10:21:27.232] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[05Oct2025 10:21:27.232] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Oct2025 10:21:27.233] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/MSX-Minecraft/servidor_minecraft/config/goblintraders-entities.toml
+[05Oct2025 10:21:27.233] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[05Oct2025 10:21:27.237] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[05Oct2025 10:21:27.237] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[05Oct2025 10:21:27.237] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
