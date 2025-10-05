@@ -1166,3 +1166,343 @@ java.lang.IllegalStateException: not found
 [05Oct2025 06:28:51.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
 [05Oct2025 06:28:51.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
 [05Oct2025 06:28:51.543] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 06:29:03.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:56853] logged in with entity id 116925 at (967.0180559145028, 63.0, -1866.794585084095)
+[05Oct2025 06:29:03.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 06:29:03.446] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 06:29:04.138] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 06:29:04.139] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 06:29:05.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[05Oct2025 06:29:05.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[05Oct2025 06:29:05.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:altimeter removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bellows removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:fodder removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_blue removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_brace removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_lime removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:notice_board removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_magenta removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_red removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_green removed now.
+[05Oct2025 06:29:15.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_purple removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_brown removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bubble_blower removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_white removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:crank removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_lime removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_orange removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:redstone_illuminator removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_cyan removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:clock_block removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_light_gray removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_red removed now.
+[05Oct2025 06:29:15.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_frame removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_cyan removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_frame removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:gold_trapdoor removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_cross_brace removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:lock_block removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_brown removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_light_blue removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:goblet removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cage removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_blue removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_magenta removed now.
+[05Oct2025 06:29:15.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:wrench removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_white removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sack removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sconce removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_brace removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_gray removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:turn_table removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_pink removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bed_from_feather_block removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_green removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:feather_block removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:iron_gate removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cog_block removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:boat_jar removed now.
+[05Oct2025 06:29:15.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bomb removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_cross_brace removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_black removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:key removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:lapis_bricks removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flower_box removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_yellow removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:crystal_display removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:faucet removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:ash_brick removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_light_blue removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:pulley removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_pink removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_black removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_orange removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_gray removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_yellow removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:hourglass removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:dispenser_minecart removed now.
+[05Oct2025 06:29:15.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:slingshot removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:checker removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_purple removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:spring_launcher removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_light_gray removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:soap removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:gold_door removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:speaker_block removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_white removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sack removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sconce removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:altimeter removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bellows removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_brace removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:turn_table removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_pink removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:fodder removed now.
+[05Oct2025 06:29:15.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bed_from_feather_block removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_brace removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_lime removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:notice_board removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_green removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_magenta removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:feather_block removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:iron_gate removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cog_block removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_brown removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:boat_jar removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bomb removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bubble_blower removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:crank removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_cross_brace removed now.
+[05Oct2025 06:29:15.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:key removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:lapis_bricks removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:redstone_illuminator removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flower_box removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_yellow removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:crystal_display removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:faucet removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:ash_brick removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_cyan removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_light_blue removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:pulley removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:clock_block removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_light_gray removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_red removed now.
+[05Oct2025 06:29:15.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_black removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_orange removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_frame removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_gray removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_frame removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_cross_brace removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:hourglass removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:dispenser_minecart removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:slingshot removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:lock_block removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:checker removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_purple removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:spring_launcher removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:goblet removed now.
+[05Oct2025 06:29:15.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cage removed now.
+[05Oct2025 06:29:15.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_blue removed now.
+[05Oct2025 06:29:15.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:soap removed now.
+[05Oct2025 06:29:15.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:gold_door removed now.
+[05Oct2025 06:29:15.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:wrench removed now.
+[05Oct2025 06:29:15.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:speaker_block removed now.
+[05Oct2025 06:29:15.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Panchito232027[/127.119.39.235:32929] logged in with entity id 117156 at (3668.0960319216274, 64.0, 653.5197648612923)
+[05Oct2025 06:29:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 joined the game
+[05Oct2025 06:29:15.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Suit Up]
+[05Oct2025 06:29:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Acquire Hardware]
+[05Oct2025 06:29:15.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Diamonds!]
+[05Oct2025 06:29:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Amateur Archaeologist]
+[05Oct2025 06:29:15.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Isn't It Iron Pick]
+[05Oct2025 06:29:15.108] [Server thread/INFO] [Jade/]: Syncing config to Panchito232027 (749f8587-c72f-3762-93a0-836ddf8ff558)
+[05Oct2025 06:29:15.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! 8.67619941624605,0.0,-5.075764813670048
+[05Oct2025 06:29:16.326] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Panchito232027 (20)
+[05Oct2025 06:29:16.327] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Panchito232027
+[05Oct2025 06:29:18.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:43017] logged in with entity id 117478 at (967.0180559145028, 63.0, -1866.794585084095)
+[05Oct2025 06:29:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 06:29:18.402] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 06:29:18.970] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 06:29:18.971] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 06:29:19.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[05Oct2025 06:29:19.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[05Oct2025 06:29:19.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 06:29:33.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:45053] logged in with entity id 117737 at (967.0180559145028, 63.0, -1866.794585084095)
+[05Oct2025 06:29:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 06:29:33.953] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 06:29:34.454] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 06:29:34.454] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 06:29:52.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[05Oct2025 06:29:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[05Oct2025 06:29:52.837] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 06:30:15.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Knowledge of Death]
+[05Oct2025 06:30:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Funeral Theft]
+[05Oct2025 06:30:19.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:34029] logged in with entity id 118867 at (958.2229437518771, 63.0, -1880.4099161051242)
+[05Oct2025 06:30:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 06:30:19.114] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 06:30:19.517] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 06:30:19.518] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 06:30:21.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[05Oct2025 06:30:21.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[05Oct2025 06:30:21.108] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 06:30:38.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:45323] logged in with entity id 119297 at (958.2229437518771, 63.0, -1880.4099161051242)
+[05Oct2025 06:30:38.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 06:30:38.963] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 06:30:39.251] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 06:30:39.252] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 06:31:03.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1214, y=72, z=-1517}
+[05Oct2025 06:31:03.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1213, y=72, z=-1517}
+[05Oct2025 06:31:03.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1215, y=72, z=-1517}
+[05Oct2025 06:31:03.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=1210, y=72, z=-1517}
+[05Oct2025 06:31:03.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1209, y=72, z=-1517}
+[05Oct2025 06:31:03.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1212, y=72, z=-1517}
+[05Oct2025 06:31:03.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1211, y=72, z=-1517}
+[05Oct2025 06:31:33.653] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=north,half=upper,hinge=left,open=true,powered=false,visible=false] but failed at location BlockPos{x=3658, y=217, z=337}
+[05Oct2025 06:31:53.667] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: structory:harvest/well_bottoms
+[05Oct2025 06:32:00.809] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:32:00.810] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:32:00.810] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:32:29.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/119441, l='ServerLevel[PapuLandia]', x=1107.24, y=-5.03, z=-1892.79] died, message: 'Librarian went up in flames'
+[05Oct2025 06:32:33.621] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1108, y=66, z=-2195}
+[05Oct2025 06:32:33.621] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1107, y=66, z=-2195}
+[05Oct2025 06:32:33.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1106, y=66, z=-2195}
+[05Oct2025 06:32:33.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1105, y=66, z=-2195}
+[05Oct2025 06:32:33.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1111, y=66, z=-2195}
+[05Oct2025 06:32:33.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=1110, y=66, z=-2195}
+[05Oct2025 06:32:33.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1109, y=66, z=-2195}
+[05Oct2025 06:32:45.373] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=1067, y=117, z=-2264}
+[05Oct2025 06:32:45.373] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1068, y=117, z=-2264}
+[05Oct2025 06:32:45.373] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1065, y=117, z=-2264}
+[05Oct2025 06:32:45.373] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1066, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=1063, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1064, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1061, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1062, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1059, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1060, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1057, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1058, y=117, z=-2264}
+[05Oct2025 06:32:45.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1071, y=117, z=-2264}
+[05Oct2025 06:32:45.375] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1069, y=117, z=-2264}
+[05Oct2025 06:32:45.375] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1070, y=117, z=-2264}
+[05Oct2025 06:32:45.467] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1073, y=117, z=-2264}
+[05Oct2025 06:32:45.468] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1074, y=117, z=-2264}
+[05Oct2025 06:32:45.468] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1072, y=117, z=-2264}
+[05Oct2025 06:33:02.248] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/119411, l='ServerLevel[PapuLandia]', x=1095.50, y=-7.95, z=-1969.50] died, message: 'Fisherman drowned'
+[05Oct2025 06:34:11.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive moved wrongly!
+[05Oct2025 06:35:45.969] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=west,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=3904, y=188, z=199}
+[05Oct2025 06:36:08.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Mine? Mine? Mine?]
+[05Oct2025 06:36:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has reached the goal [Great minds think alike]
+[05Oct2025 06:37:00.405] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:37:30.786] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=4180, y=72, z=-388}
+[05Oct2025 06:37:30.787] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=4180, y=72, z=-390}
+[05Oct2025 06:37:30.787] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=4180, y=72, z=-389}
+[05Oct2025 06:37:30.787] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=4180, y=72, z=-392}
+[05Oct2025 06:37:30.787] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=4180, y=72, z=-391}
+[05Oct2025 06:38:16.588] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:38:44.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/129735, l='ServerLevel[PapuLandia]', x=4331.49, y=38.05, z=-298.59] died, message: 'Unemployed drowned'
+[05Oct2025 06:39:01.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=1634, y=70, z=-3174}
+[05Oct2025 06:39:01.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=1645, y=70, z=-3170}
+[05Oct2025 06:39:01.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=1644, y=70, z=-3170}
+[05Oct2025 06:39:30.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has reached the goal [Greed may lead to loss]
+[05Oct2025 06:39:58.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3009}
+[05Oct2025 06:39:58.734] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3010}
+[05Oct2025 06:39:58.735] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3006}
+[05Oct2025 06:39:58.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3004}
+[05Oct2025 06:39:58.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3008}
+[05Oct2025 06:39:58.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3002}
+[05Oct2025 06:39:58.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-2996}
+[05Oct2025 06:39:58.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-2994}
+[05Oct2025 06:39:58.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3000}
+[05Oct2025 06:39:58.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-2998}
+[05Oct2025 06:39:58.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-2993}
+[05Oct2025 06:39:58.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3007}
+[05Oct2025 06:39:58.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3003}
+[05Oct2025 06:39:58.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3005}
+[05Oct2025 06:39:58.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-2997}
+[05Oct2025 06:39:58.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-2995}
+[05Oct2025 06:39:58.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-3001}
+[05Oct2025 06:39:58.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=1768, y=71, z=-2999}
+[05Oct2025 06:40:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Magic Writing]
+[05Oct2025 06:41:51.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Panchito232027 to Zairos_ALT
+[05Oct2025 06:43:01.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Monster Hunter]
+[05Oct2025 06:44:13.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/132345, l='ServerLevel[PapuLandia]', x=1781.51, y=73.00, z=-3124.61] died, message: 'Farmer was slain by Zombie'
+[05Oct2025 06:48:19.530] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 06:48:19.538] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 06:49:28.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [A Strange Grave Dust]
+[05Oct2025 06:49:45.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has reached the goal [Bone Crusher]
+[05Oct2025 06:51:34.088] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 06:51:34.092] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 06:52:57.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive moved wrongly!
+[05Oct2025 06:53:11.255] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Oct2025 06:53:11.266] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Oct2025 06:53:11.289] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Oct2025 06:55:03.837] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:55:03.997] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:55:53.684] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:55:54.712] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:55:57.644] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:55:59.878] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:56:05.492] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:56:29.481] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:56:29.509] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:56:41.590] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[05Oct2025 06:57:03.086] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:57:14.232] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:57:14.232] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:57:14.232] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:57:15.968] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=north,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=2185, y=189, z=-3648}
+[05Oct2025 06:57:16.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved too quickly! 5.34700551203332,0.0,-9.075584528312447
+[05Oct2025 06:59:00.278] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Oct2025 06:59:00.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1679, y=84, z=-3992}
+[05Oct2025 06:59:00.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1678, y=84, z=-3992}
+[05Oct2025 06:59:00.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1681, y=84, z=-3992}
+[05Oct2025 06:59:00.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1680, y=84, z=-3992}
+[05Oct2025 06:59:00.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1683, y=84, z=-3992}
+[05Oct2025 06:59:00.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1682, y=84, z=-3992}
+[05Oct2025 06:59:00.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=1689, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1688, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1691, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1690, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=1685, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1684, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1687, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1686, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1693, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1692, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1695, y=84, z=-3992}
+[05Oct2025 06:59:00.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1694, y=84, z=-3992}
+[05Oct2025 06:59:45.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Welcome To The Machine]
+[05Oct2025 06:59:47.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 lost connection: Disconnected
+[05Oct2025 06:59:47.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 left the game
+[05Oct2025 06:59:47.381] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Panchito232027
+[05Oct2025 07:00:55.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Panchito232027[/127.119.39.235:37051] logged in with entity id 147052 at (1996.3554885334704, 117.0, -3832.3588462488874)
+[05Oct2025 07:00:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 joined the game
+[05Oct2025 07:00:55.298] [Server thread/INFO] [Jade/]: Syncing config to Panchito232027 (749f8587-c72f-3762-93a0-836ddf8ff558)
+[05Oct2025 07:00:56.500] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Panchito232027 (20)
+[05Oct2025 07:00:56.500] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Panchito232027
+[05Oct2025 07:01:09.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Welcome To The Machine]
+[05Oct2025 07:01:57.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Sweet Dreams]
+[05Oct2025 07:04:08.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Welcome To The Machine]
+[05Oct2025 07:04:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Ashes 'n Bones]
+[05Oct2025 07:04:11.072] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 07:04:11.076] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 07:04:21.771] [Server thread/WARN] [tombstone/]: The death event of the player Zairos_ALT was canceled by another mod
+[05Oct2025 07:04:21.778] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:04:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has reached the goal [Strong or Careful]
+[05Oct2025 07:04:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT suffocated in a wall
+[05Oct2025 07:04:38.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Your First Grave]
+[05Oct2025 07:04:38.680] [Server thread/INFO] [tombstone/]: The player Zairos_ALT has successfully been saved
+[05Oct2025 07:04:41.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [The Most Useful Key]
+[05Oct2025 07:04:47.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has reached the goal [A Fast Comeback]
+[05Oct2025 07:05:11.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Skeleton
+[05Oct2025 07:05:41.622] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 07:05:41.626] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 07:06:40.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Gearling
+[05Oct2025 07:07:14.223] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 07:07:14.226] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 07:07:52.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Stone Age]
+[05Oct2025 07:07:59.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Gearling
+[05Oct2025 07:08:15.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has reached the goal [Home Sweet Home]

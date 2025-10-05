@@ -407,11 +407,13 @@
       "minecraft:birch_forest": "2025-10-05 04:49:18 +0000",
       "minecraft:windswept_hills": "2025-10-05 04:55:40 +0000",
       "minecraft:beach": "2025-10-05 05:01:12 +0000",
+      "minecraft:dark_forest": "2025-10-05 06:34:18 +0000",
       "minecraft:river": "2025-10-05 03:11:13 +0000",
       "minecraft:swamp": "2025-10-05 04:47:01 +0000",
       "minecraft:forest": "2025-10-05 04:15:05 +0000",
       "minecraft:ocean": "2025-10-05 04:51:22 +0000",
       "minecraft:flower_forest": "2025-10-05 05:01:13 +0000",
+      "minecraft:old_growth_birch_forest": "2025-10-05 06:34:55 +0000",
       "minecraft:meadow": "2025-10-05 04:58:30 +0000",
       "minecraft:plains": "2025-10-05 01:51:18 +0000"
     },
@@ -514,6 +516,8 @@
       "minecraft:vindicator": "2025-10-05 04:15:10 +0000",
       "minecraft:creeper": "2025-10-05 04:03:28 +0000",
       "minecraft:phantom": "2025-10-05 03:34:22 +0000",
+      "minecraft:wither_skeleton": "2025-10-05 07:03:27 +0000",
+      "minecraft:husk": "2025-10-05 06:49:30 +0000",
       "minecraft:cave_spider": "2025-10-05 05:13:47 +0000",
       "minecraft:enderman": "2025-10-05 05:03:47 +0000",
       "minecraft:zombie": "2025-10-05 02:32:27 +0000"
@@ -1234,6 +1238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-10-05 07:00:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-10-05 03:55:59 +0000"
@@ -1261,6 +1271,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-10-05 05:14:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-10-05 07:04:41 +0000"
     },
     "done": true
   },
@@ -1570,6 +1586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-10-05 07:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-10-05 06:27:07 +0000"
@@ -1690,6 +1712,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-10-05 07:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-10-05 03:21:30 +0000"
@@ -1741,6 +1769,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-10-05 04:37:10 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2025-10-05 07:05:17 +0000"
     },
     "done": true
   },
@@ -2014,6 +2048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-10-05 07:00:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-10-05 03:54:45 +0000"
@@ -2074,9 +2114,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-10-05 07:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-10-05 03:49:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-10-05 07:00:21 +0000"
     },
     "done": true
   },
@@ -2206,6 +2258,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-10-05 07:00:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-10-05 03:42:27 +0000"
@@ -2215,6 +2273,12 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-10-05 03:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-10-05 07:00:15 +0000"
     },
     "done": true
   },
@@ -2254,9 +2318,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-10-05 07:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-10-05 05:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-10-05 07:00:17 +0000"
     },
     "done": true
   },
@@ -2353,6 +2429,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-10-05 03:54:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-10-05 07:04:38 +0000"
     },
     "done": true
   },
@@ -2503,6 +2585,12 @@
   "create:recipes/misc/crafting/logistics/pulse_timer": {
     "criteria": {
       "has_item": "2025-10-05 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/glow_display_case": {
+    "criteria": {
+      "has_item_frame": "2025-10-05 07:02:49 +0000"
     },
     "done": true
   },
@@ -2740,6 +2828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-10-05 07:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-10-05 03:20:36 +0000"
@@ -2791,6 +2885,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-10-05 03:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-10-05 07:00:15 +0000"
     },
     "done": true
   },
@@ -2851,6 +2951,12 @@
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-10-05 05:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-10-05 07:00:15 +0000"
     },
     "done": true
   },
@@ -2932,6 +3038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-10-05 06:57:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-10-05 03:41:04 +0000"
@@ -3004,6 +3116,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-10-05 06:32:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-10-05 03:21:30 +0000"
@@ -3067,6 +3185,12 @@
   "create:recipes/misc/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2025-10-05 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-05 07:00:21 +0000"
     },
     "done": true
   },
@@ -3292,6 +3416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-10-05 07:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-10-05 05:17:38 +0000"
@@ -3319,6 +3449,12 @@
   "reliquary:recipes/misc/uncrafting/redstone": {
     "criteria": {
       "has_witch_hat": "2025-10-05 03:59:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-10-05 06:59:45 +0000"
     },
     "done": true
   },
@@ -3406,6 +3542,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-10-05 06:49:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-10-05 05:52:46 +0000"
@@ -3415,6 +3557,12 @@
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-10-05 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-10-05 06:44:52 +0000"
     },
     "done": true
   },
@@ -3634,6 +3782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-10-05 07:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-10-05 04:21:32 +0000"
@@ -3796,6 +3950,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-10-05 07:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-10-05 03:37:44 +0000"
@@ -3841,6 +4001,12 @@
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-10-05 03:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-05 07:00:21 +0000"
     },
     "done": true
   },
