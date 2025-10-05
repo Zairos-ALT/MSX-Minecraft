@@ -152,6 +152,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-10-05 04:10:17 +0000",
+      "minecraft:nether_wastes": "2025-10-05 05:56:20 +0000",
       "minecraft:soul_sand_valley": "2025-10-05 04:02:54 +0000"
     },
     "done": false
@@ -195,6 +196,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-10-05 03:23:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-10-05 06:09:05 +0000"
     },
     "done": true
   },
@@ -438,6 +445,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-10-05 05:58:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-10-05 04:31:14 +0000"
@@ -496,7 +509,9 @@
       "minecraft:creeper": "2025-10-05 03:34:44 +0000",
       "minecraft:piglin": "2025-10-05 04:03:33 +0000",
       "minecraft:enderman": "2025-10-05 04:42:05 +0000",
-      "minecraft:zombie": "2025-10-05 03:46:51 +0000"
+      "minecraft:zombie": "2025-10-05 03:46:51 +0000",
+      "minecraft:drowned": "2025-10-05 06:09:46 +0000",
+      "minecraft:zombie_villager": "2025-10-05 06:09:05 +0000"
     },
     "done": false
   },
@@ -965,6 +980,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-10-05 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/slime_ball": {
+    "criteria": {
+      "has_slime_pearl": "2025-10-05 05:50:28 +0000"
     },
     "done": true
   },
@@ -2144,6 +2165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-10-05 05:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-10-05 03:47:59 +0000"
@@ -2321,6 +2348,12 @@
   "vc_gliders:recipes/transportation/paraglider_wood": {
     "criteria": {
       "has_crafting_table": "2025-10-05 04:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-10-05 05:58:32 +0000"
     },
     "done": true
   },
@@ -2699,6 +2732,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-10-05 04:20:06 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fertile_essence": {
+    "criteria": {
+      "has_slime_pearl": "2025-10-05 05:50:28 +0000"
     },
     "done": true
   },
@@ -3187,6 +3226,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-10-05 03:23:34 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/infernal_claw": {
+    "criteria": {
+      "has_slime_pearl": "2025-10-05 05:50:28 +0000"
     },
     "done": true
   },
