@@ -1661,3 +1661,20 @@ java.lang.IllegalStateException: not found
 [05Oct2025 08:21:54.107] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
 [05Oct2025 08:21:54.131] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
 [05Oct2025 08:30:59.729] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/197199, l='ServerLevel[PapuLandia]', x=2308.50, y=79.56, z=-4981.50] died, message: 'Unemployed suffocated in a wall'
+[05Oct2025 08:31:41.183] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[05Oct2025 08:31:41.183] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[05Oct2025 08:39:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [It's an Emu!!!]
+[05Oct2025 08:40:59.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/202439, l='ServerLevel[PapuLandia]', x=2258.01, y=-10.66, z=-5284.50] died, message: 'Farmer tried to swim in lava'
+[05Oct2025 08:41:51.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Ice Bucket Challenge]
+[05Oct2025 08:43:21.412] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[05Oct2025 08:43:21.414] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 08:43:39.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [Strong or Careful]
+[05Oct2025 08:43:39.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 discovered the floor was lava
+[05Oct2025 08:43:39.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Your First Grave]
+[05Oct2025 08:43:39.431] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[05Oct2025 08:45:33.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [We do a little trolling...]
+[05Oct2025 08:46:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [Death Will Not Be Enough]
+[05Oct2025 08:46:19.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Knowledge raises the soul]
+[05Oct2025 08:48:36.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
+[05Oct2025 08:49:14.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/206888, l='ServerLevel[PapuLandia]', x=2292.30, y=109.00, z=-5008.30] died, message: 'Farmer was slain by Zombie'
+[05Oct2025 08:50:54.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive moved wrongly!
