@@ -528,6 +528,7 @@
       "minecraft:wither_skeleton": "2025-10-05 07:03:27 +0000",
       "minecraft:husk": "2025-10-05 06:49:30 +0000",
       "minecraft:cave_spider": "2025-10-05 05:13:47 +0000",
+      "minecraft:piglin": "2025-10-05 09:26:54 +0000",
       "minecraft:enderman": "2025-10-05 05:03:47 +0000",
       "minecraft:zombie": "2025-10-05 02:32:27 +0000"
     },
@@ -1374,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-10-05 09:19:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
     "criteria": {
       "has_barrel": "2025-10-05 07:11:09 +0000"
@@ -1545,6 +1552,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-10-05 03:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-10-05 09:26:00 +0000"
     },
     "done": true
   },
@@ -1818,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-10-05 09:35:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-10-05 03:21:30 +0000"
@@ -1851,6 +1870,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-10-05 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-10-05 09:19:26 +0000"
     },
     "done": true
   },
@@ -2298,6 +2323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-10-05 09:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-10-05 03:21:30 +0000"
@@ -2592,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-10-05 09:28:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-10-05 08:36:58 +0000"
@@ -2631,6 +2668,12 @@
   "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
     "criteria": {
       "has_item": "2025-10-05 04:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-10-05 09:28:04 +0000"
     },
     "done": true
   },
@@ -2928,6 +2971,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-10-05 09:27:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-10-05 04:23:53 +0000"
@@ -2973,6 +3022,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-10-05 07:15:53 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-10-05 09:20:20 +0000"
     },
     "done": true
   },
@@ -3636,6 +3691,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-10-05 09:30:02 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2025-10-05 03:42:27 +0000"
@@ -3783,6 +3844,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-10-05 05:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-10-05 09:19:26 +0000"
     },
     "done": true
   },
@@ -3957,6 +4024,12 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 07:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-10-05 09:28:24 +0000"
     },
     "done": true
   },
@@ -4284,6 +4357,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-05 09:27:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
     "criteria": {
       "has_wool": "2025-10-05 04:28:32 +0000"
@@ -4602,6 +4681,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-10-05 09:30:17 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-10-05 06:44:52 +0000"
@@ -4773,6 +4858,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-10-05 03:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-10-05 09:26:00 +0000"
     },
     "done": true
   },
@@ -5217,6 +5308,12 @@
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2025-10-05 08:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-10-05 09:30:17 +0000"
     },
     "done": true
   },

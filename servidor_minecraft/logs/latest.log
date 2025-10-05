@@ -1769,3 +1769,21 @@ java.lang.IllegalStateException: not found
 [05Oct2025 09:16:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [Great minds think alike]
 [05Oct2025 09:19:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Those Were the Days]
 [05Oct2025 09:19:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Hidden in the Depths]
+[05Oct2025 09:27:46.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dead Lord'/222725, l='ServerLevel[PapuLandia]', x=135.50, y=32.66, z=-710.50] died: Dead Lord was slain by Zairos_ALT
+[05Oct2025 09:28:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [War Pigs]
+[05Oct2025 09:29:49.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=128, z=-566}
+[05Oct2025 09:29:49.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=128, z=-567}
+[05Oct2025 09:29:49.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=128, z=-561}
+[05Oct2025 09:29:49.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=128, z=-562}
+[05Oct2025 09:29:49.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=128, z=-563}
+[05Oct2025 09:29:49.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=128, z=-564}
+[05Oct2025 09:29:49.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=128, z=-565}
+[05Oct2025 09:30:14.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Oct2025 09:30:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Spooky Scary Skeleton]
+[05Oct2025 09:31:12.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 lost connection: Disconnected
+[05Oct2025 09:31:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 left the game
+[05Oct2025 09:31:12.385] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Panchito232027
+[05Oct2025 09:31:29.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Oct2025 09:33:37.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> 262
+[05Oct2025 09:33:52.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> -586
+[05Oct2025 09:35:10.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moonthrive> eso
