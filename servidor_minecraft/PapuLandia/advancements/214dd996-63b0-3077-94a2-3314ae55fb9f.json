@@ -3319,6 +3319,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-10-05 07:08:15 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/void_tear": {
     "criteria": {
       "has_nebulous_heart": "2025-10-05 06:36:10 +0000"

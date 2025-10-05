@@ -14055,3 +14055,48 @@ java.lang.IllegalStateException: not found
 [05Oct2025 07:07:59.477] [Server thread/DEBUG] [tombstone/]: A new grave of the player moonthrive was created at position [x:1960, y:224, z:-3878, dim:minecraft:overworld]
 [05Oct2025 07:08:01.208] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759648081178
 [05Oct2025 07:08:15.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has reached the goal [Home Sweet Home]
+[05Oct2025 07:10:59.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/143354, l='ServerLevel[PapuLandia]', x=1925.50, y=15.56, z=-3878.50] died, message: 'Armorer suffocated in a wall'
+[05Oct2025 07:12:09.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 07:12:09.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 07:13:39.233] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 07:13:39.463] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 07:13:48.085] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of moonthrive: {disabled=false, disconnected=true, uuid=214dd996-63b0-3077-94a2-3314ae55fb9f, name=moonthrive, group=null}
+[05Oct2025 07:14:04.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Ambush]
+[05Oct2025 07:14:28.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Skeleton
+[05Oct2025 07:14:28.178] [Server thread/DEBUG] [tombstone/]: A new grave of the player moonthrive was created at position [x:1976, y:228, z:-3771, dim:minecraft:overworld]
+[05Oct2025 07:14:29.677] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759648469676
+[05Oct2025 07:15:15.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has completed the challenge [Village Defender]
+[05Oct2025 07:15:36.840] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=192, y=63, z=-46}) doesn't have enough leaves around top most log
+[05Oct2025 07:15:38.057] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=193, y=63, z=-46}) doesn't have enough leaves around top most log
+[05Oct2025 07:15:38.853] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=193, y=63, z=-45}) doesn't have enough leaves around top most log
+[05Oct2025 07:15:54.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152628, l='ServerLevel[PapuLandia]', x=2012.52, y=196.50, z=-3833.50] died: Gearling went off with a bang
+[05Oct2025 07:17:09.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 07:17:09.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 07:17:25.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/153568, l='ServerLevel[PapuLandia]', x=2018.83, y=195.00, z=-3835.48] died: Gearling went off with a bang
+[05Oct2025 07:17:25.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/153790, l='ServerLevel[PapuLandia]', x=2020.57, y=196.50, z=-3833.49] died: Gearling went off with a bang
+[05Oct2025 07:17:44.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152276, l='ServerLevel[PapuLandia]', x=2016.74, y=196.06, z=-3807.91] died: Gearling was shot by Zairos_ALT using [Pium Pium]
+[05Oct2025 07:18:06.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/153208, l='ServerLevel[PapuLandia]', x=2015.12, y=184.00, z=-3836.97] died: Gearling was doomed to fall by Creeper
+[05Oct2025 07:18:16.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/153753, l='ServerLevel[PapuLandia]', x=2033.85, y=196.50, z=-3821.31] died: Gearling was slain by Panchito232027
+[05Oct2025 07:18:18.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152605, l='ServerLevel[PapuLandia]', x=2033.85, y=196.50, z=-3821.40] died: Gearling was slain by Panchito232027
+[05Oct2025 07:18:22.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152787, l='ServerLevel[PapuLandia]', x=2033.39, y=196.50, z=-3821.57] died: Gearling was slain by Panchito232027
+[05Oct2025 07:18:23.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152306, l='ServerLevel[PapuLandia]', x=2033.84, y=196.50, z=-3821.60] died: Gearling was slain by Panchito232027
+[05Oct2025 07:18:36.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152330, l='ServerLevel[PapuLandia]', x=2033.52, y=196.50, z=-3821.75] died: Gearling was slain by Panchito232027
+[05Oct2025 07:18:38.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152674, l='ServerLevel[PapuLandia]', x=2033.58, y=196.50, z=-3821.67] died: Gearling was slain by Panchito232027
+[05Oct2025 07:18:57.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152582, l='ServerLevel[PapuLandia]', x=2004.64, y=195.16, z=-3819.47] died: Gearling was slain by Panchito232027
+[05Oct2025 07:19:00.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/154925, l='ServerLevel[PapuLandia]', x=2003.08, y=195.00, z=-3824.49] died: Gearling was slain by Panchito232027
+[05Oct2025 07:19:02.503] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/154172, l='ServerLevel[PapuLandia]', x=2002.64, y=195.00, z=-3825.59] died: Gearling was slain by Panchito232027
+[05Oct2025 07:19:06.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152694, l='ServerLevel[PapuLandia]', x=2004.16, y=195.00, z=-3833.46] died: Gearling was slain by Panchito232027
+[05Oct2025 07:19:13.804] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/154886, l='ServerLevel[PapuLandia]', x=2001.67, y=195.00, z=-3829.67] died: Gearling was slain by Panchito232027
+[05Oct2025 07:19:14.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=68, z=-562}
+[05Oct2025 07:19:14.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=68, z=-563}
+[05Oct2025 07:19:14.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=68, z=-564}
+[05Oct2025 07:19:14.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=68, z=-565}
+[05Oct2025 07:19:14.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=68, z=-566}
+[05Oct2025 07:19:14.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=68, z=-567}
+[05Oct2025 07:19:14.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-291, y=68, z=-561}
+[05Oct2025 07:19:18.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moonthrive lost connection: Disconnected
+[05Oct2025 07:19:18.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive left the game
+[05Oct2025 07:19:18.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of moonthrive
+[05Oct2025 07:19:18.728] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client moonthrive
+[05Oct2025 07:19:22.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/153710, l='ServerLevel[PapuLandia]', x=2029.34, y=195.50, z=-3830.43] died: Gearling was slain by Zairos_ALT
+[05Oct2025 07:20:15.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/152683, l='ServerLevel[PapuLandia]', x=2013.92, y=195.00, z=-3814.77] died: Gearling was slain by Panchito232027
