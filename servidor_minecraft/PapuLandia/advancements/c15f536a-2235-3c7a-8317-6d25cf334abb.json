@@ -501,6 +501,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-10-05 03:38:01 +0000",
+      "minecraft:creeper": "2025-10-05 04:03:28 +0000",
       "minecraft:phantom": "2025-10-05 03:34:22 +0000",
       "minecraft:zombie": "2025-10-05 02:32:27 +0000"
     },
@@ -1475,6 +1476,12 @@
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-10-05 03:54:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-05 04:10:27 +0000"
     },
     "done": true
   },

@@ -10349,3 +10349,28 @@ java.lang.IllegalStateException: not found
 [05Oct2025 04:03:09.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=136, y=127, z=106}
 [05Oct2025 04:03:09.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=136, y=127, z=108}
 [05Oct2025 04:03:09.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=136, y=127, z=110}
+[05Oct2025 04:07:09.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 04:07:09.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 04:08:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Fetch Me Their Souls!]
+[05Oct2025 04:09:58.877] [Server thread/WARN] [tombstone/]: The death event of the player MaximoGB23 was canceled by another mod
+[05Oct2025 04:09:58.901] [Server thread/INFO] [tombstone/]: The player MaximoGB23 has successfully been saved
+[05Oct2025 04:09:59.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=46, y=129, z=163}
+[05Oct2025 04:09:59.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=46, y=129, z=164}
+[05Oct2025 04:09:59.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=south,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=42, y=129, z=174}
+[05Oct2025 04:10:29.960] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=227, y=209, z=52}) doesn't have enough leaves around top most log
+[05Oct2025 04:10:58.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 was slain by Zombie
+[05Oct2025 04:10:58.849] [Server thread/DEBUG] [tombstone/]: A new grave of the player MaximoGB23 was created at position [x:37, y:63, z:171, dim:minecraft:overworld]
+[05Oct2025 04:11:00.815] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759637460795
+[05Oct2025 04:11:09.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Nightmare Fuel]
+[05Oct2025 04:11:10.049] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=232, y=213, z=52}) doesn't have enough leaves around top most log
+[05Oct2025 04:11:11.156] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=233, y=213, z=52}) doesn't have enough leaves around top most log
+[05Oct2025 04:12:09.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 04:12:09.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 04:14:28.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/477, l='ServerLevel[PapuLandia]', x=134.48, y=62.00, z=44.49] died, message: 'Unemployed was slain by Vindicator'
+[05Oct2025 04:14:44.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/473, l='ServerLevel[PapuLandia]', x=107.17, y=50.00, z=23.28] died, message: 'Unemployed was slain by Zombie'
+[05Oct2025 04:15:23.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Ashes 'n Bones]
+[05Oct2025 04:15:23.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Take Aim]
+[05Oct2025 04:15:24.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/467, l='ServerLevel[PapuLandia]', x=112.70, y=54.00, z=26.70] died, message: 'Unemployed was slain by Zombie'
+[05Oct2025 04:15:46.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/21150, l='ServerLevel[PapuLandia]', x=171.50, y=-5.44, z=247.50] died, message: 'Farmer suffocated in a wall'
+[05Oct2025 04:17:09.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 04:17:09.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
