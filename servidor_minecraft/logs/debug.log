@@ -15535,3 +15535,26 @@ java.lang.IllegalStateException: not found
 [05Oct2025 09:52:09.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
 [05Oct2025 09:52:09.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
 [05Oct2025 09:52:22.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Chompy]
+[05Oct2025 09:52:29.472] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 09:52:29.485] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 09:52:42.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Crocodile
+[05Oct2025 09:52:44.144] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759657964144
+[05Oct2025 09:54:13.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Enchanter]
+[05Oct2025 09:54:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has reached the goal [Powder Snow Walk]
+[05Oct2025 09:55:07.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=372, y=65, z=420}
+[05Oct2025 09:55:07.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=375, y=65, z=420}
+[05Oct2025 09:55:07.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=376, y=65, z=420}
+[05Oct2025 09:55:07.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=373, y=65, z=420}
+[05Oct2025 09:55:07.718] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=374, y=65, z=420}
+[05Oct2025 09:57:09.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 09:57:09.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 09:59:54.070] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 09:59:54.079] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:00:00.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Bison
+[05Oct2025 10:00:02.504] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759658402503
+[05Oct2025 10:02:09.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[05Oct2025 10:02:09.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[05Oct2025 10:02:24.974] [Server thread/WARN] [tombstone/]: The death event of the player moonthrive was canceled by another mod
+[05Oct2025 10:02:24.984] [Server thread/INFO] [tombstone/]: The player moonthrive has successfully been saved
+[05Oct2025 10:02:31.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive was slain by Enderman
+[05Oct2025 10:02:33.323] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759658553317
