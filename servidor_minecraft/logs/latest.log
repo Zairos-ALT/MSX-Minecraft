@@ -468,3 +468,193 @@ java.lang.IllegalStateException: not found
 [05Oct2025 03:13:06.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=south,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=42, y=59, z=174}
 [05Oct2025 03:15:33.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Monster Hunter]
 [05Oct2025 03:16:18.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/4763, l='ServerLevel[PapuLandia]', x=195.49, y=63.00, z=-38.58] died, message: 'Cleric was slain by Zombie Villager'
+[05Oct2025 03:16:41.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4806, l='ServerLevel[PapuLandia]', x=198.04, y=63.00, z=-35.01] died, message: 'Unemployed was slain by Zombie Villager'
+[05Oct2025 03:20:12.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Getting an Upgrade]
+[05Oct2025 03:23:34.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:altimeter removed now.
+[05Oct2025 03:23:34.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bellows removed now.
+[05Oct2025 03:23:34.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sconce_lever removed now.
+[05Oct2025 03:23:34.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:fodder removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_blue removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_brace removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_lime removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:notice_board removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_magenta removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_red removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_green removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_purple removed now.
+[05Oct2025 03:23:34.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_brown removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bubble_blower removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_white removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:crank removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flute removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_lime removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_orange removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:redstone_illuminator removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_cyan removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:clock_block removed now.
+[05Oct2025 03:23:34.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_light_gray removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_red removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_frame removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_cyan removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_frame removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:gold_trapdoor removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_cross_brace removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:lock_block removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_brown removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_light_blue removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:goblet removed now.
+[05Oct2025 03:23:34.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cage removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_blue removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sign_post_birch removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:present removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_magenta removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:stone_tile removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_white removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sack removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sconce removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_brace removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_gray removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:turn_table removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_pink removed now.
+[05Oct2025 03:23:34.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bed_from_feather_block removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_green removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candy removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:pedestal removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:feather_block removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:iron_gate removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bamboo_spikes removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:boat_jar removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bomb removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_cross_brace removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_black removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:key removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:lapis_bricks removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flower_box removed now.
+[05Oct2025 03:23:34.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_yellow removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:crystal_display removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:faucet removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:soap/map removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:ash_brick removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_light_blue removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:pulley removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_pink removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_black removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:stonecutting/stone_tile removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_orange removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_gray removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sconce_soul removed now.
+[05Oct2025 03:23:34.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_yellow removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:hourglass removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:slingshot removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:checker removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_purple removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:spring_launcher removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candle_holders/candle_holder_light_gray removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:soap removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:gold_door removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:speaker_block removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:altimeter removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bellows removed now.
+[05Oct2025 03:23:34.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sconce_lever removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:fodder removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_brace removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_lime removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:notice_board removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_magenta removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_brown removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bubble_blower removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:crank removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flute removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:redstone_illuminator removed now.
+[05Oct2025 03:23:34.238] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_cyan removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:clock_block removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_light_gray removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_red removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_frame removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_frame removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:gold_trapdoor removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub_cross_brace removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:lock_block removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:goblet removed now.
+[05Oct2025 03:23:34.239] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cage removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_blue removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sign_post_birch removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:present removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:stone_tile removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_white removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sack removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sconce removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_brace removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:turn_table removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_pink removed now.
+[05Oct2025 03:23:34.240] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bed_from_feather_block removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_green removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:candy removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:pedestal removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:feather_block removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:iron_gate removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bamboo_spikes removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:boat_jar removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:bomb removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:timber_cross_brace removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:key removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:lapis_bricks removed now.
+[05Oct2025 03:23:34.241] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flower_box removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_yellow removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:crystal_display removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:faucet removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:soap/map removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:ash_brick removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_light_blue removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:pulley removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_black removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:stonecutting/stone_tile removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_orange removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_gray removed now.
+[05Oct2025 03:23:34.242] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:sconce_soul removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:hourglass removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:slingshot removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:checker removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:flags/flag_purple removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:spring_launcher removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:daub removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:soap removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:gold_door removed now.
+[05Oct2025 03:23:34.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:speaker_block removed now.
+[05Oct2025 03:23:34.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moonthrive[/127.179.120.220:41807] logged in with entity id 9257 at (3663.113386421074, 72.0, 578.464431594823)
+[05Oct2025 03:23:34.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive joined the game
+[05Oct2025 03:23:34.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Suit Up]
+[05Oct2025 03:23:34.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moonthrive has made the advancement [Isn't It Iron Pick]
+[05Oct2025 03:23:34.264] [Server thread/INFO] [Jade/]: Syncing config to moonthrive (214dd996-63b0-3077-94a2-3314ae55fb9f)
+[05Oct2025 03:23:35.454] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of moonthrive (20)
+[05Oct2025 03:23:35.455] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to moonthrive
+[05Oct2025 03:23:45.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[05Oct2025 03:23:45.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[05Oct2025 03:23:45.392] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[05Oct2025 03:24:12.244] [ForkJoinPool.commonPool-worker-11/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md7c7b0b$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md7c7b0b$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[05Oct2025 03:24:12.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:36847] logged in with entity id 9752 at (274.9466341498203, 73.0, 12.538721450193046)
+[05Oct2025 03:24:12.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[05Oct2025 03:24:12.366] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[05Oct2025 03:24:13.631] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[05Oct2025 03:24:13.631] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[05Oct2025 03:24:56.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported moonthrive to Zairos_ALT
