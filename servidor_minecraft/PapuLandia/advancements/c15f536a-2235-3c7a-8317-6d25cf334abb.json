@@ -403,6 +403,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-10-06 02:49:23 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-10-06 02:31:33 +0000",
       "minecraft:taiga": "2025-10-06 01:37:23 +0000",
       "minecraft:frozen_river": "2025-10-06 01:42:47 +0000",
       "minecraft:cherry_grove": "2025-10-05 08:10:26 +0000",
@@ -417,6 +419,7 @@
       "minecraft:river": "2025-10-05 03:11:13 +0000",
       "minecraft:stony_shore": "2025-10-05 10:05:17 +0000",
       "minecraft:snowy_plains": "2025-10-06 01:42:32 +0000",
+      "minecraft:dripstone_caves": "2025-10-06 03:41:41 +0000",
       "minecraft:swamp": "2025-10-05 04:47:01 +0000",
       "minecraft:grove": "2025-10-06 01:28:07 +0000",
       "minecraft:cold_ocean": "2025-10-06 02:10:32 +0000",
@@ -429,6 +432,7 @@
       "minecraft:flower_forest": "2025-10-05 05:01:13 +0000",
       "minecraft:frozen_peaks": "2025-10-06 01:28:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-05 06:34:55 +0000",
+      "minecraft:deep_dark": "2025-10-06 02:52:09 +0000",
       "minecraft:meadow": "2025-10-05 04:58:30 +0000",
       "minecraft:savanna": "2025-10-05 08:08:32 +0000",
       "minecraft:plains": "2025-10-05 01:51:18 +0000"
@@ -5686,6 +5690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-06 02:35:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
@@ -5701,6 +5711,12 @@
   "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-10-06 03:34:13 +0000"
     },
     "done": true
   },
@@ -5800,6 +5816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-06 02:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-10-06 02:24:38 +0000"
@@ -5815,6 +5837,12 @@
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-06 02:35:55 +0000"
     },
     "done": true
   },
@@ -5956,6 +5984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-06 02:35:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-10-06 01:12:54 +0000"
@@ -5983,6 +6017,12 @@
   "create:recipes/misc/crafting/kinetics/track_observer": {
     "criteria": {
       "has_item": "2025-10-06 02:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-10-06 03:34:13 +0000"
     },
     "done": true
   },
@@ -6049,6 +6089,12 @@
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-10-06 03:34:13 +0000"
     },
     "done": true
   },
@@ -6133,6 +6179,12 @@
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-10-06 03:34:13 +0000"
     },
     "done": true
   },
@@ -6340,6 +6392,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-10-06 03:34:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -6373,6 +6431,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-10-06 01:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-06 02:35:55 +0000"
     },
     "done": true
   },
@@ -6514,9 +6578,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-06 02:35:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-10-06 02:33:03 +0000"
     },
     "done": true
   },

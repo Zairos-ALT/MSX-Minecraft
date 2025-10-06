@@ -328,3 +328,214 @@ java.lang.IllegalStateException: not found
 [06Oct2025 02:28:59.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [The Lighthouse]
 [06Oct2025 02:29:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [The Lighthouse]
 [06Oct2025 02:29:33.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[06Oct2025 02:39:46.331] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Oct2025 02:41:01.844] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-375, y=63, z=-7805}
+[06Oct2025 02:41:01.846] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-373, y=63, z=-7805}
+[06Oct2025 02:41:01.846] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=-374, y=63, z=-7805}
+[06Oct2025 02:41:01.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-371, y=63, z=-7805}
+[06Oct2025 02:41:01.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-372, y=63, z=-7805}
+[06Oct2025 02:41:01.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-369, y=63, z=-7805}
+[06Oct2025 02:41:01.850] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-370, y=63, z=-7805}
+[06Oct2025 02:42:13.175] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-576, y=63, z=-7816}
+[06Oct2025 02:42:13.175] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-574, y=63, z=-7816}
+[06Oct2025 02:42:13.176] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-575, y=63, z=-7816}
+[06Oct2025 02:42:25.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/88837, l='ServerLevel[PapuLandia]', x=-352.47, y=-2.95, z=-8218.55] died, message: 'Fisherman drowned'
+[06Oct2025 02:44:16.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/90524, l='ServerLevel[PapuLandia]', x=-388.30, y=-2.97, z=-8140.30] died, message: 'Toolsmith drowned'
+[06Oct2025 02:44:42.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/90525, l='ServerLevel[PapuLandia]', x=-388.69, y=-2.95, z=-8140.30] died, message: 'Fisherman drowned'
+[06Oct2025 02:44:56.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/90587, l='ServerLevel[PapuLandia]', x=-358.30, y=-7.25, z=-8145.17] died, message: 'Librarian burned to death'
+[06Oct2025 02:44:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Panchito232027> -140 -8448
+[06Oct2025 02:45:17.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/90527, l='ServerLevel[PapuLandia]', x=-388.70, y=-2.95, z=-8140.30] died, message: 'Librarian drowned'
+[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8543}
+[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8540}
+[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8539}
+[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8542}
+[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8541}
+[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8538}
+[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8537}
+[06Oct2025 02:47:05.192] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/92792, l='ServerLevel[PapuLandia]', x=-388.50, y=-2.95, z=-8140.48] died, message: 'Shepherd drowned'
+[06Oct2025 02:52:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Chest Slayer]
+[06Oct2025 02:53:05.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Sculk Cymbal]
+[06Oct2025 02:56:10.425] [ForkJoinPool.commonPool-worker-26/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Oct2025 02:56:10.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:41137] logged in with entity id 95488 at (2050.173195917212, 110.0, -4765.16586729166)
+[06Oct2025 02:56:10.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 02:56:10.560] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 02:56:11.599] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 02:56:11.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 02:58:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaximoGB23> hola putas me voy a robar todo jejej
+[06Oct2025 02:58:37.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Disconnected
+[06Oct2025 02:58:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 02:58:37.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 02:59:32.584] [ForkJoinPool.commonPool-worker-29/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Oct2025 02:59:32.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:57967] logged in with entity id 96621 at (2049.6005575972545, 111.0, -4758.1868086619515)
+[06Oct2025 02:59:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 02:59:32.652] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 02:59:33.632] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 02:59:33.633] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 03:00:02.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[06Oct2025 03:00:02.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 03:00:02.750] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 03:00:57.036] [ForkJoinPool.commonPool-worker-29/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Oct2025 03:00:57.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:39173] logged in with entity id 97150 at (2049.6005575972545, 111.0, -4758.1868086619515)
+[06Oct2025 03:00:57.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 03:00:57.061] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 03:00:57.739] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 03:00:57.740] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 03:02:10.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Diamonds!]
+[06Oct2025 03:05:11.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-110, y=-49, z=-8325} BlockPos{x=-134, y=-43, z=-8404}
+[06Oct2025 03:05:50.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=-50, z=-8304} BlockPos{x=-169, y=-52, z=-8287}
+[06Oct2025 03:13:16.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has completed the challenge [It Spreads]
+[06Oct2025 03:14:57.381] [Server thread/WARN] [tombstone/]: The death event of the player MaximoGB23 was canceled by another mod
+[06Oct2025 03:14:57.397] [Server thread/INFO] [tombstone/]: The player MaximoGB23 has successfully been saved
+[06Oct2025 03:15:36.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 was slain by Zombie
+[06Oct2025 03:19:44.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
+[06Oct2025 03:22:03.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [A Seedy Place]
+[06Oct2025 03:22:57.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/107105, l='ServerLevel[PapuLandia]', x=-352.52, y=-2.95, z=-8218.50] died, message: 'Farmer drowned'
+[06Oct2025 03:28:46.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=-51, z=-8360} BlockPos{x=-147, y=-51, z=-8358}
+[06Oct2025 03:28:59.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[06Oct2025 03:28:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 03:28:59.942] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 03:29:22.891] [ForkJoinPool.commonPool-worker-33/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Oct2025 03:29:22.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:39913] logged in with entity id 113214 at (2189.371537013352, 62.40321891560397, -4677.643511325184)
+[06Oct2025 03:29:22.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 03:29:22.956] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 03:29:24.594] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 03:29:24.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 03:35:10.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaximoGB23> seed
+[06Oct2025 03:35:37.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
+[06Oct2025 03:38:58.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [We Need to Go Deeper]
+[06Oct2025 03:38:58.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! -9.01789150309375,0.2059632758195562,-4.795608385844389
+[06Oct2025 03:38:58.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
+[06Oct2025 03:39:21.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved too quickly! 8.461045309440465,0.12870315946080524,-5.484708910627887
+[06Oct2025 03:39:21.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! -8.63189226497127,-1.093024089548834,-5.2236208700178395
+[06Oct2025 03:39:22.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Oct2025 03:39:24.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[06Oct2025 03:39:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 03:39:24.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 03:39:46.794] [ForkJoinPool.commonPool-worker-36/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Oct2025 03:39:46.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:34785] logged in with entity id 122168 at (2040.300012230873, 98.0, -4772.5)
+[06Oct2025 03:39:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 03:39:46.856] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 03:39:49.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 03:39:49.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 03:40:46.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[06Oct2025 03:40:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 03:40:47.000] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 03:41:37.628] [ForkJoinPool.commonPool-worker-36/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Oct2025 03:41:37.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:51709] logged in with entity id 123670 at (2039.610765283412, 110.0, -4761.93325377619)
+[06Oct2025 03:41:37.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 03:41:37.662] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 03:41:38.683] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 03:41:38.683] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 03:41:45.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Oct2025 03:41:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Oct2025 03:41:45.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Server closed
+[06Oct2025 03:41:45.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
+[06Oct2025 03:41:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
