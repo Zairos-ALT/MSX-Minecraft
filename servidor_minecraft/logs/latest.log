@@ -1,7 +1,356 @@
-[06Oct2025 00:00:39.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Wheels of Destruction]
-[06Oct2025 00:05:55.842] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
-[06Oct2025 00:05:55.845] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
-[06Oct2025 00:07:59.725] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+[06Oct2025 03:42:50.962] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06Oct2025 03:42:50.967] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[06Oct2025 03:42:52.802] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Oct2025 03:42:52.818] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[06Oct2025 03:42:52.819] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MSX-Minecraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23156!/
+[06Oct2025 03:42:52.826] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MSX-Minecraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[06Oct2025 03:42:52.828] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[06Oct2025 03:42:52.915] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-Minecraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Oct2025 03:42:52.928] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[06Oct2025 03:42:53.317] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-Minecraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Oct2025 03:42:53.318] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-Minecraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Oct2025 03:42:53.319] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-Minecraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Oct2025 03:42:53.320] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-Minecraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Oct2025 03:42:54.259] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06Oct2025 03:42:54.261] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 39 dependencies adding them to mods collection
+[06Oct2025 03:42:54.675] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[06Oct2025 03:42:54.705] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[06Oct2025 03:42:54.719] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[06Oct2025 03:42:54.733] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/MSX-Minecraft/servidor_minecraft/mods/scripts as it did not exist.
+[06Oct2025 03:42:54.741] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[06Oct2025 03:42:55.497] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[06Oct2025 03:42:55.512] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[06Oct2025 03:42:56.529] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[06Oct2025 03:42:57.825] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2867ms
+[06Oct2025 03:42:57.829] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[06Oct2025 03:42:58.088] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Oct2025 03:42:58.102] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
+[06Oct2025 03:42:58.104] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
+[06Oct2025 03:42:58.174] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
+[06Oct2025 03:42:58.175] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
+[06Oct2025 03:42:58.290] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[06Oct2025 03:42:58.292] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Oct2025 03:42:59.343] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[06Oct2025 03:42:59.344] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[06Oct2025 03:42:59.344] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[06Oct2025 03:42:59.404] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
+[06Oct2025 03:42:59.404] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[06Oct2025 03:42:59.407] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
+[06Oct2025 03:42:59.407] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[06Oct2025 03:42:59.438] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[06Oct2025 03:43:00.362] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06Oct2025 03:43:05.031] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zzb000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06Oct2025 03:43:07.976] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[06Oct2025 03:43:08.280] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[06Oct2025 03:43:08.301] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[06Oct2025 03:43:08.418] [modloading-worker-0/INFO] [Jump over Fences/]: This mod should only be installed on the client to save RAM
+[06Oct2025 03:43:08.633] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Oct2025 03:43:08.634] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[06Oct2025 03:43:08.640] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[06Oct2025 03:43:08.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[06Oct2025 03:43:08.646] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[06Oct2025 03:43:08.647] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[06Oct2025 03:43:08.648] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[06Oct2025 03:43:08.652] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[06Oct2025 03:43:08.930] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Oct2025 03:43:08.931] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Oct2025 03:43:09.081] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.11
+[06Oct2025 03:43:09.156] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[06Oct2025 03:43:09.293] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.7.
+[06Oct2025 03:43:10.387] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[06Oct2025 03:43:15.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Starting version check at https://api.modrinth.com/updates/ibnDR6oc/forge_updates.json
+[06Oct2025 03:43:15.349] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 20
+[06Oct2025 03:43:15.491] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[06Oct2025 03:43:15.519] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[06Oct2025 03:43:15.524] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[06Oct2025 03:43:15.549] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[06Oct2025 03:43:15.556] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[06Oct2025 03:43:15.558] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[06Oct2025 03:43:15.924] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[06Oct2025 03:43:15.924] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[06Oct2025 03:43:15.925] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[06Oct2025 03:43:15.925] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[06Oct2025 03:43:15.926] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[06Oct2025 03:43:15.926] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[06Oct2025 03:43:15.927] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[06Oct2025 03:43:15.928] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[06Oct2025 03:43:15.929] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[06Oct2025 03:43:16.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Found status: OUTDATED Current: 6 Target: 6+mod
+[06Oct2025 03:43:16.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Oct2025 03:43:16.133] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[06Oct2025 03:43:16.134] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[06Oct2025 03:43:16.140] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[06Oct2025 03:43:16.140] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[06Oct2025 03:43:16.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[06Oct2025 03:43:16.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[06Oct2025 03:43:16.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: UP_TO_DATE Current: 1.1.7-mc1.20.1 Target: null
+[06Oct2025 03:43:16.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[06Oct2025 03:43:16.281] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[06Oct2025 03:43:16.309] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[06Oct2025 03:43:16.317] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[06Oct2025 03:43:16.319] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at reliquary.compat.jade.JadeCompat
+[06Oct2025 03:43:16.323] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[06Oct2025 03:43:16.326] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[06Oct2025 03:43:16.327] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.petrolpark.compat.jade.PetrolparkJade
+[06Oct2025 03:43:16.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.6.4 Target: null
+[06Oct2025 03:43:16.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[06Oct2025 03:43:16.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.5.1
+[06Oct2025 03:43:16.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[06Oct2025 03:43:17.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.11 Target: null
+[06Oct2025 03:43:17.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Oct2025 03:43:17.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[06Oct2025 03:43:17.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Oct2025 03:43:17.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.0.9 Target: null
+[06Oct2025 03:43:17.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[06Oct2025 03:43:17.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[06Oct2025 03:43:19.687] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Oct2025 03:43:21.923] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-Minecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23213!/assets/.mcassetsroot' uses unexpected schema
+[06Oct2025 03:43:21.924] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-Minecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23213!/data/.mcassetsroot' uses unexpected schema
+[06Oct2025 03:43:22.035] [main/INFO] [com.simibubi.create.Create/]: Created 262 recipes which will be injected into the game
+[06Oct2025 03:43:22.047] [main/INFO] [com.simibubi.create.Create/]: Created 23 tags which will be injected into the game
+[06Oct2025 03:43:30.303] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/MSX-Minecraft/servidor_minecraft/tacz
+[06Oct2025 03:43:30.305] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[06Oct2025 03:43:30.305] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[06Oct2025 03:43:30.814] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[06Oct2025 03:43:31.908] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06Oct2025 03:43:32.065] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-9.0.9.jar
+[06Oct2025 03:43:33.246] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[06Oct2025 03:43:33.265] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:squid_beak as it's serializer returned null
+[06Oct2025 03:43:33.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:molten_core as it's serializer returned null
+[06Oct2025 03:43:33.284] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_compat as it's serializer returned null
+[06Oct2025 03:43:33.284] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_compat as it's serializer returned null
+[06Oct2025 03:43:33.296] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate_compat as it's serializer returned null
+[06Oct2025 03:43:33.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:withered_rib as it's serializer returned null
+[06Oct2025 03:43:33.317] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_compat as it's serializer returned null
+[06Oct2025 03:43:33.320] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:bat_wing as it's serializer returned null
+[06Oct2025 03:43:33.330] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:rib_bone as it's serializer returned null
+[06Oct2025 03:43:33.337] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall_compat as it's serializer returned null
+[06Oct2025 03:43:33.339] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_compat as it's serializer returned null
+[06Oct2025 03:43:33.351] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:nebulous_heart as it's serializer returned null
+[06Oct2025 03:43:33.357] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:alkahestry/crafting/silver_ingot as it's serializer returned null
+[06Oct2025 03:43:33.362] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:alkahestry/crafting/steel_ingot as it's serializer returned null
+[06Oct2025 03:43:33.366] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:catalyzing_gland as it's serializer returned null
+[06Oct2025 03:43:33.371] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam_compat as it's serializer returned null
+[06Oct2025 03:43:33.372] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:frozen_core as it's serializer returned null
+[06Oct2025 03:43:33.373] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:slime_pearl as it's serializer returned null
+[06Oct2025 03:43:33.376] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:alkahestry/crafting/tin_ingot as it's serializer returned null
+[06Oct2025 03:43:33.387] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board_compat as it's serializer returned null
+[06Oct2025 03:43:33.391] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_more_features:tt_1
+com.google.gson.JsonParseException: Not a supported recipe type
+	at com.simibubi.create.content.processing.sequenced.SequencedRecipe.fromJson(SequencedRecipe.java:59) ~[create-1.20.1-6.0.6.jar%23169!/:6.0.6]
+	at com.simibubi.create.content.processing.sequenced.SequencedAssemblyRecipeSerializer.readFromJson(SequencedAssemblyRecipeSerializer.java:36) ~[create-1.20.1-6.0.6.jar%23169!/:6.0.6]
+	at com.simibubi.create.content.processing.sequenced.SequencedAssemblyRecipeSerializer.fromJson(SequencedAssemblyRecipeSerializer.java:74) ~[create-1.20.1-6.0.6.jar%23169!/:6.0.6]
+	at com.simibubi.create.content.processing.sequenced.SequencedAssemblyRecipeSerializer.m_6729_(SequencedAssemblyRecipeSerializer.java:14) ~[create-1.20.1-6.0.6.jar%23169!/:6.0.6]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23218!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23213!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23213!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23213!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23213!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23213!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23213!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23213!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23213!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Oct2025 03:43:33.393] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:guardian_spike as it's serializer returned null
+[06Oct2025 03:43:33.398] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:zombie_heart as it's serializer returned null
+[06Oct2025 03:43:33.399] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:chelicerae as it's serializer returned null
+[06Oct2025 03:43:33.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe reliquary:eye_of_the_storm as it's serializer returned null
+[06Oct2025 03:43:33.403] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs_compat as it's serializer returned null
+[06Oct2025 03:43:33.413] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[06Oct2025 03:43:33.617] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3756 advancements
+[06Oct2025 03:43:33.621] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3768 advancements
+[06Oct2025 03:43:33.759] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
+[06Oct2025 03:43:33.765] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[06Oct2025 03:43:33.766] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[06Oct2025 03:43:35.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Oct2025 03:43:35.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Oct2025 03:43:35.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Oct2025 03:43:35.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Oct2025 03:43:36.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Oct2025 03:43:36.096] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Oct2025 03:43:36.171] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Oct2025 03:43:36.172] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Oct2025 03:43:36.172] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Oct2025 03:43:36.172] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Oct2025 03:43:36.335] [Server thread/INFO] [Framework/]: Loading server configs...
+[06Oct2025 03:43:36.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "PapuLandia"
+[06Oct2025 03:43:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Oct2025 03:43:41.469] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:41.988] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:41.997] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:41.998] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:42.000] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:42.223] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:43.023] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:43.476] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:44.076] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:44.242] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:44.879] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:45.250] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Oct2025 03:43:45.936] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Oct2025 03:43:46.223] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[06Oct2025 03:43:46.750] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[06Oct2025 03:43:47.226] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[06Oct2025 03:43:47.551] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7828 ms
+[06Oct2025 03:43:47.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.365s)! For help, type "help"
+[06Oct2025 03:43:47.610] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Oct2025 03:43:47.624] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[06Oct2025 03:43:47.634] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[06Oct2025 03:44:40.237] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[06Oct2025 03:44:40.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairos_ALT[/127.53.35.208:45831] logged in with entity id 534 at (-337.38378862549615, 77.90394047469837, -8707.300000011921)
+[06Oct2025 03:44:40.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT joined the game
+[06Oct2025 03:44:40.567] [Server thread/INFO] [Jade/]: Syncing config to Zairos_ALT (c15f536a-2235-3c7a-8317-6d25cf334abb)
+[06Oct2025 03:44:42.867] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairos_ALT (20)
+[06Oct2025 03:44:42.873] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairos_ALT
+[06Oct2025 03:44:42.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind
+[06Oct2025 03:44:50.093] [Worker-Main-2/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[06Oct2025 03:46:48.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Cactus] to Zairos_ALT
+[06Oct2025 03:53:01.555] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-622, y=118, z=-8792}
+[06Oct2025 03:53:01.556] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-623, y=118, z=-8792}
+[06Oct2025 03:53:01.557] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-624, y=118, z=-8792}
+[06Oct2025 03:53:04.150] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-627, y=118, z=-8792}
+[06Oct2025 03:53:04.152] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-628, y=118, z=-8792}
+[06Oct2025 03:53:04.153] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=-629, y=118, z=-8792}
+[06Oct2025 03:53:04.153] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-630, y=118, z=-8792}
+[06Oct2025 03:53:04.153] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-631, y=118, z=-8792}
+[06Oct2025 03:53:04.154] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-632, y=118, z=-8792}
+[06Oct2025 03:53:04.154] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=-633, y=118, z=-8792}
+[06Oct2025 03:53:04.155] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-634, y=118, z=-8792}
+[06Oct2025 03:53:04.155] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-635, y=118, z=-8792}
+[06Oct2025 03:53:04.155] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-636, y=118, z=-8792}
+[06Oct2025 03:53:04.155] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-637, y=118, z=-8792}
+[06Oct2025 03:53:04.155] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-638, y=118, z=-8792}
+[06Oct2025 03:53:04.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-639, y=118, z=-8792}
+[06Oct2025 03:53:04.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-625, y=118, z=-8792}
+[06Oct2025 03:53:04.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-626, y=118, z=-8792}
+[06Oct2025 03:59:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has completed the challenge [It Spreads]
+[06Oct2025 04:10:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairos_ALT> as
+[06Oct2025 04:14:55.431] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Oct2025 04:14:55.492] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Oct2025 04:14:56.585] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Oct2025 04:14:56.587] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Oct2025 04:14:56.591] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Oct2025 04:14:56.591] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Oct2025 04:14:56.592] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Oct2025 04:14:56.592] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Oct2025 04:14:56.609] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Oct2025 04:14:56.611] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Oct2025 04:15:00.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6431ms or 128 ticks behind
+[06Oct2025 04:18:59.117] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=86, y=70, z=-7614}
+[06Oct2025 04:18:59.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=east,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=82, y=70, z=-7604}
+[06Oct2025 04:18:59.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=82, y=70, z=-7603}
+[06Oct2025 04:19:09.491] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=133, y=48, z=-7587} but found not block entity block Block{minecraft:water}[level=8] at location
+[06Oct2025 04:19:09.491] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=133, y=48, z=-7587}
+[06Oct2025 04:19:21.103] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7876}
+[06Oct2025 04:19:21.104] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7874}
+[06Oct2025 04:19:21.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7879}
+[06Oct2025 04:19:21.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7877}
+[06Oct2025 04:19:21.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7883}
+[06Oct2025 04:19:21.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7881}
+[06Oct2025 04:19:21.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7887}
+[06Oct2025 04:19:21.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7885}
+[06Oct2025 04:19:21.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7875}
+[06Oct2025 04:19:21.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7873}
+[06Oct2025 04:19:21.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7880}
+[06Oct2025 04:19:21.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7878}
+[06Oct2025 04:19:21.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7884}
+[06Oct2025 04:19:21.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7882}
+[06Oct2025 04:19:21.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7888}
+[06Oct2025 04:19:21.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=264, y=68, z=-7886}
+[06Oct2025 04:19:31.596] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Oct2025 04:19:31.596] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Oct2025 04:19:31.597] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Oct2025 04:19:40.840] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=320, y=202, z=-7463}
+[06Oct2025 04:22:51.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=489, y=72, z=-7325}
+[06Oct2025 04:22:51.197] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=490, y=72, z=-7325}
+[06Oct2025 04:22:51.198] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=491, y=72, z=-7325}
+[06Oct2025 04:22:51.199] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=492, y=72, z=-7325}
+[06Oct2025 04:22:51.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=493, y=72, z=-7325}
+[06Oct2025 04:22:51.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=494, y=72, z=-7325}
+[06Oct2025 04:22:51.201] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=495, y=72, z=-7325}
+[06Oct2025 04:23:08.096] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=south,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=259, y=122, z=-6991}
+[06Oct2025 04:23:08.098] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=south,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=259, y=136, z=-6987}
+[06Oct2025 04:23:08.098] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=259, y=136, z=-6983}
+[06Oct2025 04:23:08.099] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=south,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=259, y=128, z=-6989}
+[06Oct2025 04:24:42.893] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=93, y=70, z=-6706}
+[06Oct2025 04:24:42.893] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=93, y=70, z=-6707}
+[06Oct2025 04:24:42.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=93, y=70, z=-6705}
+[06Oct2025 04:24:42.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=93, y=70, z=-6710}
+[06Oct2025 04:24:42.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=93, y=70, z=-6711}
+[06Oct2025 04:24:42.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=93, y=70, z=-6708}
+[06Oct2025 04:24:42.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=93, y=70, z=-6709}
+[06Oct2025 04:27:48.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/13482, l='ServerLevel[PapuLandia]', x=677.30, y=58.05, z=-6330.49] died, message: 'Leatherworker drowned'
+[06Oct2025 04:28:17.062] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6186}
+[06Oct2025 04:28:17.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6184}
+[06Oct2025 04:28:17.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6190}
+[06Oct2025 04:28:17.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6188}
+[06Oct2025 04:28:17.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6178}
+[06Oct2025 04:28:17.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6182}
+[06Oct2025 04:28:17.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6180}
+[06Oct2025 04:28:17.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6187}
+[06Oct2025 04:28:17.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6185}
+[06Oct2025 04:28:17.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6191}
+[06Oct2025 04:28:17.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6189}
+[06Oct2025 04:28:17.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6179}
+[06Oct2025 04:28:17.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6177}
+[06Oct2025 04:28:17.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6183}
+[06Oct2025 04:28:17.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6181}
+[06Oct2025 04:28:17.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6174}
+[06Oct2025 04:28:17.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6175}
+[06Oct2025 04:28:17.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1016, y=105, z=-6176}
+[06Oct2025 04:30:25.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairos_ALT> wdea
+[06Oct2025 04:34:50.642] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1183, y=79, z=-6061}
+[06Oct2025 04:34:50.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1182, y=79, z=-6061}
+[06Oct2025 04:34:50.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1181, y=79, z=-6061}
+[06Oct2025 04:34:50.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1180, y=79, z=-6061}
+[06Oct2025 04:34:50.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1179, y=79, z=-6061}
+[06Oct2025 04:34:50.645] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=1178, y=79, z=-6061}
+[06Oct2025 04:34:50.645] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1177, y=79, z=-6061}
+[06Oct2025 04:36:33.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Super Creeps]
+[06Oct2025 04:36:33.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Disconnected
+[06Oct2025 04:36:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
+[06Oct2025 04:36:33.573] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairos_ALT
+[06Oct2025 04:36:45.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairos_ALT[/127.53.35.208:55937] logged in with entity id 17137 at (1115.7266659431104, 96.0, -5780.6911209428645)
+[06Oct2025 04:36:45.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT joined the game
+[06Oct2025 04:36:45.831] [Server thread/INFO] [Jade/]: Syncing config to Zairos_ALT (c15f536a-2235-3c7a-8317-6d25cf334abb)
+[06Oct2025 04:36:46.685] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairos_ALT (20)
+[06Oct2025 04:36:46.686] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairos_ALT
+[06Oct2025 04:36:47.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Disconnected
+[06Oct2025 04:36:47.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
+[06Oct2025 04:36:47.763] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairos_ALT
+[06Oct2025 04:37:01.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairos_ALT[/127.53.35.208:36279] logged in with entity id 17360 at (1115.7266659431104, 96.0, -5780.6911209428645)
+[06Oct2025 04:37:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT joined the game
+[06Oct2025 04:37:01.675] [Server thread/INFO] [Jade/]: Syncing config to Zairos_ALT (c15f536a-2235-3c7a-8317-6d25cf334abb)
+[06Oct2025 04:37:02.457] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairos_ALT (20)
+[06Oct2025 04:37:02.458] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairos_ALT
+[06Oct2025 04:37:03.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Disconnected
+[06Oct2025 04:37:03.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
+[06Oct2025 04:37:03.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairos_ALT
+[06Oct2025 04:37:41.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairos_ALT[/127.53.35.208:42145] logged in with entity id 17628 at (1115.7266659431104, 96.0, -5780.6911209428645)
+[06Oct2025 04:37:41.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT joined the game
+[06Oct2025 04:37:41.570] [Server thread/INFO] [Jade/]: Syncing config to Zairos_ALT (c15f536a-2235-3c7a-8317-6d25cf334abb)
+[06Oct2025 04:37:47.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Zairos_ALT to 1000.500000, 100.000000, -3999.500000
+[06Oct2025 04:37:47.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Zairos_ALT to 1000.500000, 100.000000, -3999.500000
+[06Oct2025 04:37:47.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairos_ALT (20)
+[06Oct2025 04:37:47.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairos_ALT
+[06Oct2025 04:37:48.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6379ms or 127 ticks behind
+[06Oct2025 04:43:58.635] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
 java.lang.IllegalStateException: not found
 	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
@@ -9,10 +358,10 @@ java.lang.IllegalStateException: not found
 	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
 	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1bd3fe$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
 	at java.util.Optional.map(Optional.java:260) ~[?:?]
 	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1bd3fe$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -20,15 +369,16 @@ java.lang.IllegalStateException: not found
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 00:07:59.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:33355] logged in with entity id 6660 at (38.78043835986201, 64.1875, 169.20371635774367)
-[06Oct2025 00:07:59.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 00:07:59.776] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 00:08:00.598] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 00:08:00.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 00:08:29.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 00:08:29.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 00:08:29.900] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 00:12:44.942] [ForkJoinPool.commonPool-worker-12/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+[06Oct2025 04:43:58.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:46733] logged in with entity id 21209 at (2039.610765283412, 110.0, -4761.93325377619)
+[06Oct2025 04:43:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 04:43:58.787] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 04:43:59.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 04:43:59.804] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 04:44:28.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[06Oct2025 04:44:28.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 04:44:28.750] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 04:44:28.797] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Oct2025 04:44:54.032] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
 java.lang.IllegalStateException: not found
 	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
@@ -36,10 +386,10 @@ java.lang.IllegalStateException: not found
 	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
 	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1bd3fe$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
 	at java.util.Optional.map(Optional.java:260) ~[?:?]
 	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1bd3fe$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -47,17 +397,15 @@ java.lang.IllegalStateException: not found
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 00:12:44.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:38873] logged in with entity id 8376 at (38.78043835986201, 64.1875, 169.20371635774367)
-[06Oct2025 00:12:45.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 00:12:45.026] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 00:12:45.843] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 00:12:45.843] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 00:13:15.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 00:13:15.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 00:13:15.091] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 00:13:16.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Flexible Schedule]
-[06Oct2025 00:13:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Flexible Schedule]
-[06Oct2025 00:13:54.985] [ForkJoinPool.commonPool-worker-12/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+[06Oct2025 04:44:54.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:39779] logged in with entity id 21409 at (2039.610765283412, 110.0, -4761.93325377619)
+[06Oct2025 04:44:54.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 04:44:54.140] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 04:44:54.563] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 04:44:54.564] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 04:45:24.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[06Oct2025 04:45:24.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 04:45:24.147] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 04:46:30.904] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
 java.lang.IllegalStateException: not found
 	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
@@ -65,10 +413,10 @@ java.lang.IllegalStateException: not found
 	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
 	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1bd3fe$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
 	at java.util.Optional.map(Optional.java:260) ~[?:?]
 	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1bd3fe$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -76,28 +424,15 @@ java.lang.IllegalStateException: not found
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 00:13:55.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:59759] logged in with entity id 9077 at (38.78043835986201, 64.1875, 169.20371635774367)
-[06Oct2025 00:13:55.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 00:13:55.075] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 00:13:55.706] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 00:13:55.707] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 00:14:25.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 00:14:25.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 00:14:25.147] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 00:14:43.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:29.035] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19fd57ee[id=<null>,name=MaximoGB23,properties={},legacy=false] (/127.122.74.237:44941) lost connection: Disconnected
-[06Oct2025 00:15:30.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:32.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:38.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:38.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:41.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:41.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:41.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:42.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[06Oct2025 00:15:59.907] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+[06Oct2025 04:46:30.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:52699] logged in with entity id 21588 at (2039.610765283412, 110.0, -4761.93325377619)
+[06Oct2025 04:46:30.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 04:46:31.030] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 04:46:31.509] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 04:46:31.509] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 04:47:01.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[06Oct2025 04:47:01.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 04:47:01.046] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 04:47:53.681] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
 java.lang.IllegalStateException: not found
 	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
@@ -105,10 +440,10 @@ java.lang.IllegalStateException: not found
 	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
 	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1bd3fe$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
 	at java.util.Optional.map(Optional.java:260) ~[?:?]
 	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md1bd3fe$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -116,426 +451,28 @@ java.lang.IllegalStateException: not found
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 00:15:59.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:51745] logged in with entity id 9769 at (38.78043835986201, 64.1875, 169.20371635774367)
-[06Oct2025 00:15:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 00:15:59.968] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 00:16:01.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MaximoGB23 to Zairos_ALT
-[06Oct2025 00:16:02.047] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 00:16:02.047] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 00:16:04.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MaximoGB23 to Zairos_ALT
-[06Oct2025 00:16:30.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 00:16:30.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 00:16:30.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 00:17:14.418] [ForkJoinPool.commonPool-worker-17/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 00:17:14.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:39963] logged in with entity id 10167 at (2050.173195917212, 110.0, -4765.16586729166)
-[06Oct2025 00:17:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 00:17:14.506] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 00:17:14.957] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 00:17:14.957] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 00:17:44.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 00:17:44.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 00:17:44.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 00:20:33.133] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
-[06Oct2025 00:39:33.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [A Terrible Fortress]
-[06Oct2025 00:43:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Into Fire]
-[06Oct2025 00:46:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Wingin' It]
-[06Oct2025 00:47:46.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/19346, l='ServerLevel[PapuLandia]', x=2325.50, y=22.56, z=-4986.50] died, message: 'Fletcher suffocated in a wall'
-[06Oct2025 00:48:41.540] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
-[06Oct2025 00:48:41.543] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
-[06Oct2025 00:49:02.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 fell from a high place
-[06Oct2025 00:54:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Spray 'n Pray]
-[06Oct2025 00:55:20.199] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
-[06Oct2025 00:55:20.199] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
-[06Oct2025 00:55:20.199] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
-[06Oct2025 01:03:19.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [What a Deal!]
-[06Oct2025 01:13:33.923] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
-[06Oct2025 01:14:00.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/35988, l='ServerLevel[PapuLandia]', x=2299.01, y=83.46, z=-4946.66] died, message: 'Fisherman was slain by Zombie'
-[06Oct2025 01:14:39.885] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=1762, y=66, z=-4611}
-[06Oct2025 01:14:39.888] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=east,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=1762, y=66, z=-4612}
-[06Oct2025 01:14:39.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=1766, y=66, z=-4622}
-[06Oct2025 01:14:44.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4625}
-[06Oct2025 01:14:44.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4626}
-[06Oct2025 01:14:44.725] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4609}
-[06Oct2025 01:14:44.725] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4613}
-[06Oct2025 01:14:44.725] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4611}
-[06Oct2025 01:14:44.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4617}
-[06Oct2025 01:14:44.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4615}
-[06Oct2025 01:14:44.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4621}
-[06Oct2025 01:14:44.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4619}
-[06Oct2025 01:14:44.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4623}
-[06Oct2025 01:14:44.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4612}
-[06Oct2025 01:14:44.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4610}
-[06Oct2025 01:14:44.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4616}
-[06Oct2025 01:14:44.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4614}
-[06Oct2025 01:14:44.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4620}
-[06Oct2025 01:14:44.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4618}
-[06Oct2025 01:14:44.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4624}
-[06Oct2025 01:14:44.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1608, y=63, z=-4622}
-[06Oct2025 01:16:37.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved too quickly! 0.2681765873976474,1.0,10.415596747470317
-[06Oct2025 01:16:38.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
-[06Oct2025 01:18:19.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2179, y=75, z=-2956}
-[06Oct2025 01:18:19.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2179, y=75, z=-2955}
-[06Oct2025 01:18:19.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=2179, y=75, z=-2954}
-[06Oct2025 01:18:19.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2179, y=75, z=-2953}
-[06Oct2025 01:18:19.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2179, y=75, z=-2959}
-[06Oct2025 01:18:19.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2179, y=75, z=-2958}
-[06Oct2025 01:18:19.792] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2179, y=75, z=-2957}
-[06Oct2025 01:18:32.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/42294, l='ServerLevel[PapuLandia]', x=2069.30, y=50.05, z=-3050.50] died, message: 'Leatherworker drowned'
-[06Oct2025 01:20:03.579] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2322}
-[06Oct2025 01:20:03.584] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2321}
-[06Oct2025 01:20:04.776] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2306}
-[06Oct2025 01:20:04.777] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2308}
-[06Oct2025 01:20:04.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2310}
-[06Oct2025 01:20:04.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2312}
-[06Oct2025 01:20:04.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2314}
-[06Oct2025 01:20:04.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2316}
-[06Oct2025 01:20:04.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2318}
-[06Oct2025 01:20:04.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2320}
-[06Oct2025 01:20:04.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2305}
-[06Oct2025 01:20:04.783] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2307}
-[06Oct2025 01:20:04.784] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2309}
-[06Oct2025 01:20:04.785] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2311}
-[06Oct2025 01:20:04.785] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2313}
-[06Oct2025 01:20:04.785] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2315}
-[06Oct2025 01:20:04.786] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2317}
-[06Oct2025 01:20:04.786] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=1800, y=78, z=-2319}
-[06Oct2025 01:20:10.776] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2131, y=66, z=-2313}
-[06Oct2025 01:20:10.776] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2131, y=66, z=-2315}
-[06Oct2025 01:20:10.776] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=2131, y=66, z=-2314}
-[06Oct2025 01:20:10.776] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2131, y=66, z=-2317}
-[06Oct2025 01:20:10.777] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2131, y=66, z=-2316}
-[06Oct2025 01:20:10.777] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2131, y=66, z=-2319}
-[06Oct2025 01:20:10.777] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=2131, y=66, z=-2318}
-[06Oct2025 01:22:24.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1419, y=63, z=-4845}
-[06Oct2025 01:22:24.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1421, y=63, z=-4845}
-[06Oct2025 01:22:24.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1420, y=63, z=-4845}
-[06Oct2025 01:22:24.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1423, y=63, z=-4845}
-[06Oct2025 01:22:24.546] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=1422, y=63, z=-4845}
-[06Oct2025 01:22:29.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved wrongly!
-[06Oct2025 01:25:34.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved wrongly!
-[06Oct2025 01:27:07.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/53178, l='ServerLevel[PapuLandia]', x=1775.50, y=10.00, z=-4841.50] died, message: 'Leatherworker drowned'
-[06Oct2025 01:27:38.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
-[06Oct2025 01:39:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has completed the challenge [Free Willy]
-[06Oct2025 01:39:31.828] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5314}
-[06Oct2025 01:39:31.829] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5313}
-[06Oct2025 01:39:31.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5309}
-[06Oct2025 01:39:31.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5311}
-[06Oct2025 01:39:31.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5305}
-[06Oct2025 01:39:31.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5307}
-[06Oct2025 01:39:31.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5301}
-[06Oct2025 01:39:31.834] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5303}
-[06Oct2025 01:39:31.834] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5297}
-[06Oct2025 01:39:31.835] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5299}
-[06Oct2025 01:39:31.836] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5310}
-[06Oct2025 01:39:31.836] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5312}
-[06Oct2025 01:39:31.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5306}
-[06Oct2025 01:39:31.840] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5308}
-[06Oct2025 01:39:31.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5302}
-[06Oct2025 01:39:31.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5304}
-[06Oct2025 01:39:31.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5298}
-[06Oct2025 01:39:31.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=920, y=104, z=-5300}
-[06Oct2025 01:40:04.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
-[06Oct2025 01:42:10.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! -10.0417690133811,-0.058019921869437496,-2.260917951603915
-[06Oct2025 01:42:49.982] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=221, y=74, z=-5517}
-[06Oct2025 01:42:49.982] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=219, y=82, z=-5517}
-[06Oct2025 01:42:49.982] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=215, y=82, z=-5517}
-[06Oct2025 01:42:49.982] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=223, y=68, z=-5517}
-[06Oct2025 01:42:53.756] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[06Oct2025 01:42:53.756] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[06Oct2025 01:42:53.757] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[06Oct2025 01:43:05.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! -10.281824041024436,0.0,-1.9917042675560879
-[06Oct2025 01:43:15.559] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=north,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=169, y=193, z=-5552}
-[06Oct2025 01:43:16.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! -3.0480058278029745,0.0,-10.271170791569602
-[06Oct2025 01:43:46.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has completed the challenge [Rude Awakening]
-[06Oct2025 01:43:50.672] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=287, y=67, z=-5576}
-[06Oct2025 01:43:50.673] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=286, y=67, z=-5576}
-[06Oct2025 01:44:42.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=303, y=67, z=-5576}
-[06Oct2025 01:44:42.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=301, y=67, z=-5576}
-[06Oct2025 01:44:42.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=302, y=67, z=-5576}
-[06Oct2025 01:44:42.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=299, y=67, z=-5576}
-[06Oct2025 01:44:42.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=300, y=67, z=-5576}
-[06Oct2025 01:44:42.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=297, y=67, z=-5576}
-[06Oct2025 01:44:42.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=298, y=67, z=-5576}
-[06Oct2025 01:44:42.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=295, y=67, z=-5576}
-[06Oct2025 01:44:42.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=296, y=67, z=-5576}
-[06Oct2025 01:44:42.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=293, y=67, z=-5576}
-[06Oct2025 01:44:42.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=294, y=67, z=-5576}
-[06Oct2025 01:44:42.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=291, y=67, z=-5576}
-[06Oct2025 01:44:42.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=292, y=67, z=-5576}
-[06Oct2025 01:44:42.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=289, y=67, z=-5576}
-[06Oct2025 01:44:42.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=290, y=67, z=-5576}
-[06Oct2025 01:44:42.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=288, y=67, z=-5576}
-[06Oct2025 01:59:14.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Back to childhood]
-[06Oct2025 01:59:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Not even afraid of death]
-[06Oct2025 01:59:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has reached the goal [Great minds think alike]
-[06Oct2025 02:00:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [Fortuitous Militia]
-[06Oct2025 02:02:43.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Adventurous Eater]
-[06Oct2025 02:10:17.307] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=763, y=66, z=-5550}
-[06Oct2025 02:10:17.307] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=763, y=66, z=-5547}
-[06Oct2025 02:10:17.307] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=763, y=66, z=-5551}
-[06Oct2025 02:10:17.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=763, y=66, z=-5548}
-[06Oct2025 02:10:18.802] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=782, y=66, z=-5546}
-[06Oct2025 02:10:18.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=769, y=66, z=-5547}
-[06Oct2025 02:10:18.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=769, y=66, z=-5551}
-[06Oct2025 02:10:18.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=782, y=66, z=-5552}
-[06Oct2025 02:10:28.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! 10.302747524071833,0.0,-0.4201039708013923
-[06Oct2025 02:14:06.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has reached the goal [The long arm of the law]
-[06Oct2025 02:14:43.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [The long arm of the law]
-[06Oct2025 02:19:36.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Hot Stuff]
-[06Oct2025 02:20:28.503] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
-[06Oct2025 02:20:28.509] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
-[06Oct2025 02:21:23.555] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=14, y=65, z=-6157}
-[06Oct2025 02:21:23.556] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=south,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=10, y=65, z=-6146}
-[06Oct2025 02:21:23.556] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=west,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=14, y=65, z=-6156}
-[06Oct2025 02:21:23.603] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6160}
-[06Oct2025 02:21:23.603] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6158}
-[06Oct2025 02:21:23.603] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6159}
-[06Oct2025 02:21:26.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6164}
-[06Oct2025 02:21:26.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6162}
-[06Oct2025 02:21:26.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6168}
-[06Oct2025 02:21:26.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6166}
-[06Oct2025 02:21:26.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6172}
-[06Oct2025 02:21:26.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6170}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6174}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6165}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6163}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6169}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6167}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6161}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6173}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6171}
-[06Oct2025 02:21:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=24, y=63, z=-6175}
-[06Oct2025 02:22:40.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
-[06Oct2025 02:27:39.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Chompy]
-[06Oct2025 02:28:59.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [The Lighthouse]
-[06Oct2025 02:29:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [The Lighthouse]
-[06Oct2025 02:29:33.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
-[06Oct2025 02:39:46.331] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[06Oct2025 02:41:01.844] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-375, y=63, z=-7805}
-[06Oct2025 02:41:01.846] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-373, y=63, z=-7805}
-[06Oct2025 02:41:01.846] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=-374, y=63, z=-7805}
-[06Oct2025 02:41:01.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-371, y=63, z=-7805}
-[06Oct2025 02:41:01.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-372, y=63, z=-7805}
-[06Oct2025 02:41:01.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-369, y=63, z=-7805}
-[06Oct2025 02:41:01.850] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-370, y=63, z=-7805}
-[06Oct2025 02:42:13.175] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-576, y=63, z=-7816}
-[06Oct2025 02:42:13.175] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-574, y=63, z=-7816}
-[06Oct2025 02:42:13.176] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-575, y=63, z=-7816}
-[06Oct2025 02:42:25.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/88837, l='ServerLevel[PapuLandia]', x=-352.47, y=-2.95, z=-8218.55] died, message: 'Fisherman drowned'
-[06Oct2025 02:44:16.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/90524, l='ServerLevel[PapuLandia]', x=-388.30, y=-2.97, z=-8140.30] died, message: 'Toolsmith drowned'
-[06Oct2025 02:44:42.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/90525, l='ServerLevel[PapuLandia]', x=-388.69, y=-2.95, z=-8140.30] died, message: 'Fisherman drowned'
-[06Oct2025 02:44:56.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/90587, l='ServerLevel[PapuLandia]', x=-358.30, y=-7.25, z=-8145.17] died, message: 'Librarian burned to death'
-[06Oct2025 02:44:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Panchito232027> -140 -8448
-[06Oct2025 02:45:17.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/90527, l='ServerLevel[PapuLandia]', x=-388.70, y=-2.95, z=-8140.30] died, message: 'Librarian drowned'
-[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8543}
-[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8540}
-[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8539}
-[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8542}
-[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8541}
-[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=pd,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8538}
-[06Oct2025 02:45:58.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-413, y=109, z=-8537}
-[06Oct2025 02:47:05.192] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/92792, l='ServerLevel[PapuLandia]', x=-388.50, y=-2.95, z=-8140.48] died, message: 'Shepherd drowned'
-[06Oct2025 02:52:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Chest Slayer]
-[06Oct2025 02:53:05.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Sculk Cymbal]
-[06Oct2025 02:56:10.425] [ForkJoinPool.commonPool-worker-26/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 02:56:10.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:41137] logged in with entity id 95488 at (2050.173195917212, 110.0, -4765.16586729166)
-[06Oct2025 02:56:10.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 02:56:10.560] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 02:56:11.599] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 02:56:11.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 02:58:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaximoGB23> hola putas me voy a robar todo jejej
-[06Oct2025 02:58:37.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Disconnected
-[06Oct2025 02:58:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 02:58:37.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 02:59:32.584] [ForkJoinPool.commonPool-worker-29/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 02:59:32.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:57967] logged in with entity id 96621 at (2049.6005575972545, 111.0, -4758.1868086619515)
-[06Oct2025 02:59:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 02:59:32.652] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 02:59:33.632] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 02:59:33.633] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 03:00:02.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 03:00:02.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 03:00:02.750] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 03:00:57.036] [ForkJoinPool.commonPool-worker-29/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 03:00:57.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:39173] logged in with entity id 97150 at (2049.6005575972545, 111.0, -4758.1868086619515)
-[06Oct2025 03:00:57.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 03:00:57.061] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 03:00:57.739] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 03:00:57.740] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 03:02:10.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [Diamonds!]
-[06Oct2025 03:05:11.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-110, y=-49, z=-8325} BlockPos{x=-134, y=-43, z=-8404}
-[06Oct2025 03:05:50.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=-50, z=-8304} BlockPos{x=-169, y=-52, z=-8287}
-[06Oct2025 03:13:16.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has completed the challenge [It Spreads]
-[06Oct2025 03:14:57.381] [Server thread/WARN] [tombstone/]: The death event of the player MaximoGB23 was canceled by another mod
-[06Oct2025 03:14:57.397] [Server thread/INFO] [tombstone/]: The player MaximoGB23 has successfully been saved
-[06Oct2025 03:15:36.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 was slain by Zombie
-[06Oct2025 03:19:44.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
-[06Oct2025 03:22:03.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [A Seedy Place]
-[06Oct2025 03:22:57.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/107105, l='ServerLevel[PapuLandia]', x=-352.52, y=-2.95, z=-8218.50] died, message: 'Farmer drowned'
-[06Oct2025 03:28:46.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=-51, z=-8360} BlockPos{x=-147, y=-51, z=-8358}
-[06Oct2025 03:28:59.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 03:28:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 03:28:59.942] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 03:29:22.891] [ForkJoinPool.commonPool-worker-33/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 03:29:22.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:39913] logged in with entity id 113214 at (2189.371537013352, 62.40321891560397, -4677.643511325184)
-[06Oct2025 03:29:22.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 03:29:22.956] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 03:29:24.594] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 03:29:24.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 03:35:10.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaximoGB23> seed
-[06Oct2025 03:35:37.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
-[06Oct2025 03:38:58.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has made the advancement [We Need to Go Deeper]
-[06Oct2025 03:38:58.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! -9.01789150309375,0.2059632758195562,-4.795608385844389
-[06Oct2025 03:38:58.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
-[06Oct2025 03:39:21.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Panchito232027 moved too quickly! 8.461045309440465,0.12870315946080524,-5.484708910627887
-[06Oct2025 03:39:21.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved too quickly! -8.63189226497127,-1.093024089548834,-5.2236208700178395
-[06Oct2025 03:39:22.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[06Oct2025 03:39:24.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 03:39:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 03:39:24.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 03:39:46.794] [ForkJoinPool.commonPool-worker-36/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 03:39:46.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:34785] logged in with entity id 122168 at (2040.300012230873, 98.0, -4772.5)
-[06Oct2025 03:39:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 03:39:46.856] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 03:39:49.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 03:39:49.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 03:40:46.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
-[06Oct2025 03:40:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
-[06Oct2025 03:40:47.000] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
-[06Oct2025 03:41:37.628] [ForkJoinPool.commonPool-worker-36/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
-	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9bbf8d$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Oct2025 03:41:37.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:51709] logged in with entity id 123670 at (2039.610765283412, 110.0, -4761.93325377619)
-[06Oct2025 03:41:37.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
-[06Oct2025 03:41:37.662] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
-[06Oct2025 03:41:38.683] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
-[06Oct2025 03:41:38.683] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
-[06Oct2025 03:41:45.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[06Oct2025 03:41:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[06Oct2025 03:41:45.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Server closed
-[06Oct2025 03:41:45.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
-[06Oct2025 03:41:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Oct2025 04:47:53.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:33087] logged in with entity id 21745 at (2039.610765283412, 110.0, -4761.93325377619)
+[06Oct2025 04:47:53.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 04:47:53.760] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 04:47:54.910] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 04:47:54.910] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 04:48:23.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Timed out
+[06Oct2025 04:48:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 04:48:23.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 04:48:32.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT lost connection: Disconnected
+[06Oct2025 04:48:32.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
+[06Oct2025 04:48:32.296] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairos_ALT
+[06Oct2025 04:48:38.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Oct2025 04:48:38.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Oct2025 04:48:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Oct2025 04:48:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Oct2025 04:48:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PapuLandia]'/minecraft:overworld
+[06Oct2025 04:48:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PapuLandia]'/minecraft:the_nether
+[06Oct2025 04:48:38.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PapuLandia]'/minecraft:the_end
+[06Oct2025 04:48:38.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PapuLandia): All chunks are saved
+[06Oct2025 04:48:38.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Oct2025 04:48:38.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Oct2025 04:48:38.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Oct2025 04:48:39.348] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Oct2025 04:48:39.349] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Oct2025 04:48:39.353] [Server thread/INFO] [Framework/]: Finished unloading server configs
