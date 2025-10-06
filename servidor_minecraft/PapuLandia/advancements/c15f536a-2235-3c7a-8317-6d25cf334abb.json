@@ -419,10 +419,12 @@
       "minecraft:snowy_plains": "2025-10-06 01:42:32 +0000",
       "minecraft:swamp": "2025-10-05 04:47:01 +0000",
       "minecraft:grove": "2025-10-06 01:28:07 +0000",
+      "minecraft:cold_ocean": "2025-10-06 02:10:32 +0000",
       "minecraft:forest": "2025-10-05 04:15:05 +0000",
       "minecraft:ice_spikes": "2025-10-06 01:42:49 +0000",
       "minecraft:ocean": "2025-10-05 04:51:22 +0000",
       "minecraft:jungle": "2025-10-06 00:54:14 +0000",
+      "minecraft:snowy_beach": "2025-10-06 02:10:31 +0000",
       "minecraft:flower_forest": "2025-10-05 05:01:13 +0000",
       "minecraft:frozen_peaks": "2025-10-06 01:28:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-05 06:34:55 +0000",
@@ -5599,6 +5601,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-10-06 01:08:06 +0000"
@@ -5659,6 +5673,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/empty_fan_catalyst": {
     "criteria": {
       "has_item": "2025-10-06 00:09:40 +0000"
@@ -5695,6 +5727,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-10-06 01:08:06 +0000"
@@ -5707,6 +5751,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-10-06 00:10:27 +0000"
@@ -5716,6 +5766,12 @@
   "create:recipes/misc/smoking/bread": {
     "criteria": {
       "has_item": "2025-10-06 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-06 02:08:25 +0000"
     },
     "done": true
   },
@@ -5791,6 +5847,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -5818,6 +5880,18 @@
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-10-06 01:12:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-10-06 01:59:33 +0000"
     },
     "done": true
   },
@@ -5869,6 +5943,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
@@ -5878,6 +5958,12 @@
   "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
     "criteria": {
       "has_item": "2025-10-06 00:09:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
     },
     "done": true
   },
@@ -5902,6 +5988,12 @@
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
     },
     "done": true
   },
@@ -5935,9 +6027,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
     },
     "done": true
   },
@@ -6019,6 +6129,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-10-06 00:13:32 +0000"
@@ -6085,6 +6201,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -6127,9 +6249,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
     },
     "done": true
   },
@@ -6157,6 +6291,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -6166,6 +6306,18 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-10-06 01:08:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-10-06 02:14:06 +0000"
     },
     "done": true
   },

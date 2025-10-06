@@ -1030,10 +1030,13 @@
       "minecraft:stony_shore": "2025-10-05 08:20:39 +0000",
       "minecraft:snowy_plains": "2025-10-06 01:42:43 +0000",
       "minecraft:swamp": "2025-10-05 06:35:24 +0000",
+      "minecraft:cold_ocean": "2025-10-06 02:10:13 +0000",
       "minecraft:forest": "2025-10-05 06:33:19 +0000",
       "minecraft:ice_spikes": "2025-10-06 01:42:52 +0000",
+      "minecraft:frozen_ocean": "2025-10-06 02:15:32 +0000",
       "minecraft:windswept_forest": "2025-10-05 06:36:54 +0000",
       "minecraft:ocean": "2025-10-05 06:35:49 +0000",
+      "minecraft:snowy_beach": "2025-10-06 02:10:11 +0000",
       "minecraft:flower_forest": "2025-10-05 06:30:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-05 06:34:01 +0000",
       "minecraft:meadow": "2025-10-06 01:39:18 +0000",
@@ -3227,6 +3230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-10-06 02:05:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-10-06 00:43:08 +0000"
@@ -3305,6 +3314,12 @@
     },
     "done": true
   },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2025-10-06 02:02:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-06 00:26:49 +0000"
@@ -3320,6 +3335,12 @@
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-10-06 00:29:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-10-06 02:00:19 +0000"
     },
     "done": true
   },
@@ -4184,6 +4205,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-10-06 01:46:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-10-06 02:14:43 +0000"
     },
     "done": true
   },
