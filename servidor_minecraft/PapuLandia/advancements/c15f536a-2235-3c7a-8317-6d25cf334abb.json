@@ -424,6 +424,7 @@
       "minecraft:ice_spikes": "2025-10-06 01:42:49 +0000",
       "minecraft:ocean": "2025-10-05 04:51:22 +0000",
       "minecraft:jungle": "2025-10-06 00:54:14 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-10-06 02:25:02 +0000",
       "minecraft:snowy_beach": "2025-10-06 02:10:31 +0000",
       "minecraft:flower_forest": "2025-10-05 05:01:13 +0000",
       "minecraft:frozen_peaks": "2025-10-06 01:28:16 +0000",
@@ -5577,6 +5578,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -5619,6 +5626,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
@@ -5643,9 +5656,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2025-10-06 00:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-10-06 02:24:24 +0000"
     },
     "done": true
   },
@@ -5658,6 +5683,12 @@
   "create:crushing_wheel": {
     "criteria": {
       "0": "2025-10-06 00:00:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
     },
     "done": true
   },
@@ -5700,6 +5731,18 @@
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
     },
     "done": true
   },
@@ -5757,15 +5800,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-06 02:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-10-06 00:10:27 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smoking/bread": {
     "criteria": {
       "has_item": "2025-10-06 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-10-06 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-10-06 02:24:24 +0000"
     },
     "done": true
   },
@@ -5784,6 +5851,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-10-06 01:08:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
     },
     "done": true
   },
@@ -5826,6 +5899,12 @@
   "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
     "criteria": {
       "has_item": "2025-10-06 00:58:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
     },
     "done": true
   },
@@ -5901,6 +5980,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-10-06 02:26:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-10-06 02:26:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
@@ -5955,6 +6046,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
     "criteria": {
       "has_item": "2025-10-06 00:09:40 +0000"
@@ -5991,6 +6088,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-10-06 02:07:14 +0000"
@@ -6021,6 +6124,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-10-06 02:26:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
@@ -6042,6 +6151,24 @@
   "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-10-06 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-10-06 02:26:06 +0000"
     },
     "done": true
   },
@@ -6069,6 +6196,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-10-06 02:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-10-06 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-06 01:08:06 +0000"
@@ -6090,6 +6241,12 @@
   "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
     "criteria": {
       "has_item": "2025-10-06 00:10:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
     },
     "done": true
   },
@@ -6141,6 +6298,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-10-06 02:26:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-10-06 00:13:33 +0000"
@@ -6171,6 +6334,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-10-06 02:28:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -6186,6 +6355,18 @@
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-10-06 01:08:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-10-06 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-10-06 02:26:06 +0000"
     },
     "done": true
   },
@@ -6243,6 +6424,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/dough": {
     "criteria": {
       "has_item": "2025-10-06 00:45:01 +0000"
@@ -6264,6 +6451,12 @@
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-10-06 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
     },
     "done": true
   },
@@ -6321,6 +6514,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-10-06 01:08:06 +0000"
@@ -6336,6 +6535,12 @@
   "create:recipes/misc/crafting/appliances/slime_ball": {
     "criteria": {
       "has_item": "2025-10-06 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-10-06 02:26:05 +0000"
     },
     "done": true
   },

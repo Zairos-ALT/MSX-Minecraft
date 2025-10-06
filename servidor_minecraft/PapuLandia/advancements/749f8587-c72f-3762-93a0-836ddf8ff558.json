@@ -1036,6 +1036,7 @@
       "minecraft:frozen_ocean": "2025-10-06 02:15:32 +0000",
       "minecraft:windswept_forest": "2025-10-05 06:36:54 +0000",
       "minecraft:ocean": "2025-10-05 06:35:49 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-10-06 02:21:51 +0000",
       "minecraft:snowy_beach": "2025-10-06 02:10:11 +0000",
       "minecraft:flower_forest": "2025-10-05 06:30:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-05 06:34:01 +0000",
@@ -3410,6 +3411,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/slime_ball": {
+    "criteria": {
+      "has_slime_pearl": "2025-10-06 02:23:59 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-10-06 01:20:17 +0000"
@@ -3479,6 +3486,18 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-10-06 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-10-06 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-10-06 02:25:01 +0000"
     },
     "done": true
   },
@@ -3557,6 +3576,12 @@
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-10-06 00:29:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-10-06 02:25:02 +0000"
     },
     "done": true
   },
@@ -4022,6 +4047,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-10-06 02:29:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-10-06 01:20:17 +0000"
@@ -4055,6 +4086,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-10-06 00:41:44 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fertile_essence": {
+    "criteria": {
+      "has_slime_pearl": "2025-10-06 02:23:59 +0000"
     },
     "done": true
   },
@@ -4271,6 +4308,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-10-06 00:29:11 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/infernal_claw": {
+    "criteria": {
+      "has_slime_pearl": "2025-10-06 02:23:59 +0000"
     },
     "done": true
   },
