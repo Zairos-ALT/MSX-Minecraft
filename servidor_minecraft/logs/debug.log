@@ -10514,3 +10514,8 @@ java.lang.IllegalStateException: not found
 [06Oct2025 00:17:44.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
 [06Oct2025 00:17:44.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MaximoGB23
 [06Oct2025 00:17:44.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 00:19:13.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[06Oct2025 00:19:13.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[06Oct2025 00:20:33.133] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[06Oct2025 00:24:13.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[06Oct2025 00:24:13.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
