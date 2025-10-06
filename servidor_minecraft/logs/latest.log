@@ -247,3 +247,42 @@ java.lang.IllegalStateException: not found
 [06Oct2025 05:00:33.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT left the game
 [06Oct2025 05:00:33.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairos_ALT
 [06Oct2025 05:00:33.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Oct2025 05:04:44.637] [Server thread/WARN] [tombstone/]: The death event of the player MaximoGB23 was canceled by another mod
+[06Oct2025 05:04:44.641] [Server thread/INFO] [tombstone/]: The player MaximoGB23 has successfully been saved
+[06Oct2025 05:04:56.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 was shot by Skeleton
+[06Oct2025 05:05:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 has reached the goal [Here They Come]
+[06Oct2025 05:07:58.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Disconnected
+[06Oct2025 05:07:58.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 05:07:58.036] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 05:08:10.733] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:MaximoGB23'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdec1bad$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdec1bad$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Oct2025 05:08:10.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaximoGB23[/127.122.74.237:44675] logged in with entity id 2738 at (2060.3478721062993, 111.0, -4761.252955644525)
+[06Oct2025 05:08:10.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 joined the game
+[06Oct2025 05:08:10.820] [Server thread/INFO] [Jade/]: Syncing config to MaximoGB23 (55bb4f29-2181-32db-aab3-3c694c056141)
+[06Oct2025 05:08:11.757] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MaximoGB23 (20)
+[06Oct2025 05:08:11.758] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MaximoGB23
+[06Oct2025 05:08:59.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaximoGB23 lost connection: Disconnected
+[06Oct2025 05:08:59.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
+[06Oct2025 05:08:59.539] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
+[06Oct2025 05:09:18.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairos_ALT[/127.53.35.208:33341] logged in with entity id 2989 at (2054.565524872285, 110.0, -4755.300963669059)
+[06Oct2025 05:09:18.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT joined the game
+[06Oct2025 05:09:18.505] [Server thread/INFO] [Jade/]: Syncing config to Zairos_ALT (c15f536a-2235-3c7a-8317-6d25cf334abb)
+[06Oct2025 05:09:19.756] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairos_ALT (20)
+[06Oct2025 05:09:19.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairos_ALT
