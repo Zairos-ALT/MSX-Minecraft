@@ -1017,6 +1017,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-10-06 01:10:52 +0000",
       "minecraft:taiga": "2025-10-05 06:37:14 +0000",
+      "minecraft:frozen_river": "2025-10-06 01:42:44 +0000",
       "minecraft:sunflower_plains": "2025-10-05 06:30:07 +0000",
       "minecraft:cherry_grove": "2025-10-05 08:07:14 +0000",
       "minecraft:birch_forest": "2025-10-05 06:36:33 +0000",
@@ -1027,12 +1028,15 @@
       "minecraft:river": "2025-10-05 06:30:10 +0000",
       "minecraft:lukewarm_ocean": "2025-10-05 08:21:43 +0000",
       "minecraft:stony_shore": "2025-10-05 08:20:39 +0000",
+      "minecraft:snowy_plains": "2025-10-06 01:42:43 +0000",
       "minecraft:swamp": "2025-10-05 06:35:24 +0000",
       "minecraft:forest": "2025-10-05 06:33:19 +0000",
+      "minecraft:ice_spikes": "2025-10-06 01:42:52 +0000",
       "minecraft:windswept_forest": "2025-10-05 06:36:54 +0000",
       "minecraft:ocean": "2025-10-05 06:35:49 +0000",
       "minecraft:flower_forest": "2025-10-05 06:30:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-05 06:34:01 +0000",
+      "minecraft:meadow": "2025-10-06 01:39:18 +0000",
       "minecraft:savanna": "2025-10-05 08:09:53 +0000",
       "minecraft:plains": "2025-10-05 06:29:16 +0000"
     },
@@ -1050,6 +1054,7 @@
       "cooked_beef": "2025-10-05 07:03:49 +0000",
       "baked_potato": "2025-10-05 08:28:30 +0000",
       "beef": "2025-10-06 00:15:50 +0000",
+      "spider_eye": "2025-10-06 01:39:27 +0000",
       "potato": "2025-10-06 00:22:11 +0000",
       "mutton": "2025-10-06 01:21:18 +0000",
       "bread": "2025-10-05 06:29:32 +0000",
@@ -1195,6 +1200,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-10-06 00:39:48 +0000",
+      "minecraft:pillager": "2025-10-06 01:39:11 +0000",
       "minecraft:skeleton": "2025-10-05 06:46:32 +0000",
       "minecraft:ravager": "2025-10-05 07:14:04 +0000",
       "minecraft:ghast": "2025-10-06 00:48:18 +0000",
@@ -3171,6 +3177,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-10-06 01:39:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-10-06 01:20:17 +0000"
@@ -3192,6 +3204,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-10-06 00:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-10-06 01:44:02 +0000"
     },
     "done": true
   },
@@ -3243,6 +3261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-06 01:46:02 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/glowing_water": {
     "criteria": {
       "has_nether_wart": "2025-10-06 00:40:21 +0000"
@@ -3285,6 +3309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-10-06 01:46:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-10-06 00:29:11 +0000"
@@ -3306,6 +3336,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-10-06 00:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-10-06 01:46:02 +0000"
     },
     "done": true
   },
@@ -3813,6 +3849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-06 01:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-10-06 01:03:19 +0000"
@@ -3912,6 +3954,12 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-10-06 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-10-06 01:46:02 +0000"
     },
     "done": true
   },
@@ -4125,6 +4173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-06 01:46:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-10-06 00:29:11 +0000"
@@ -4164,6 +4218,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-10-06 00:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-10-06 01:44:02 +0000"
     },
     "done": true
   },
