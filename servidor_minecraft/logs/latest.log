@@ -286,3 +286,19 @@ java.lang.IllegalStateException: not found
 [06Oct2025 05:09:18.505] [Server thread/INFO] [Jade/]: Syncing config to Zairos_ALT (c15f536a-2235-3c7a-8317-6d25cf334abb)
 [06Oct2025 05:09:19.756] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairos_ALT (20)
 [06Oct2025 05:09:19.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairos_ALT
+[06Oct2025 05:28:27.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Oct2025 05:28:27.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1give Zairos_ALT gumboots<--[HERE]
+[06Oct2025 05:28:32.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Oct2025 05:28:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1give Zairos_ALT gumboots<--[HERE]
+[06Oct2025 05:28:40.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:gumboots'
+[06Oct2025 05:28:40.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...airos_ALT gumboots<--[HERE]
+[06Oct2025 05:29:23.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[06Oct2025 05:29:23.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...airos_ALT Arctifacts:gumgoots<--[HERE]
+[06Oct2025 05:29:51.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: 3
+[06Oct2025 05:29:51.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode 3 Zairos_ALT<--[HERE]
+[06Oct2025 05:30:18.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Oct2025 05:30:18.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT gamemode creative<--[HERE]
+[06Oct2025 05:30:29.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Oct2025 05:30:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemoe crative<--[HERE]
+[06Oct2025 05:30:50.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairos_ALT a server operator
+[06Oct2025 05:30:55.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairos_ALT: Set own game mode to Creative Mode]
