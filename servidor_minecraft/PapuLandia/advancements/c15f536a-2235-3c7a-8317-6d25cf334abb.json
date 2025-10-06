@@ -410,6 +410,7 @@
       "minecraft:savanna_plateau": "2025-10-05 08:10:14 +0000",
       "minecraft:beach": "2025-10-05 05:01:12 +0000",
       "minecraft:dark_forest": "2025-10-05 06:34:18 +0000",
+      "minecraft:sparse_jungle": "2025-10-06 00:51:49 +0000",
       "minecraft:lukewarm_ocean": "2025-10-05 10:05:29 +0000",
       "minecraft:river": "2025-10-05 03:11:13 +0000",
       "minecraft:stony_shore": "2025-10-05 10:05:17 +0000",
@@ -5596,6 +5597,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-10-06 00:45:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -5614,9 +5621,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-10-06 00:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-10-06 00:10:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-10-06 00:45:09 +0000"
     },
     "done": true
   },
@@ -5632,6 +5651,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-10-06 00:45:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -5641,6 +5666,12 @@
   "create:recipes/misc/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-10-06 00:45:09 +0000"
     },
     "done": true
   },
@@ -5677,6 +5708,12 @@
   "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-10-06 00:32:53 +0000"
     },
     "done": true
   },
@@ -5758,6 +5795,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-10-06 00:45:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
@@ -5767,6 +5810,12 @@
   "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-10-06 00:45:09 +0000"
     },
     "done": true
   },

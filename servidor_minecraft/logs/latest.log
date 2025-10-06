@@ -154,3 +154,14 @@ java.lang.IllegalStateException: not found
 [06Oct2025 00:17:44.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaximoGB23 left the game
 [06Oct2025 00:17:44.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MaximoGB23
 [06Oct2025 00:20:33.133] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[06Oct2025 00:39:33.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [A Terrible Fortress]
+[06Oct2025 00:43:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Into Fire]
+[06Oct2025 00:46:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Wingin' It]
+[06Oct2025 00:47:46.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/19346, l='ServerLevel[PapuLandia]', x=2325.50, y=22.56, z=-4986.50] died, message: 'Fletcher suffocated in a wall'
+[06Oct2025 00:48:41.540] [Server thread/WARN] [tombstone/]: The death event of the player Panchito232027 was canceled by another mod
+[06Oct2025 00:48:41.543] [Server thread/INFO] [tombstone/]: The player Panchito232027 has successfully been saved
+[06Oct2025 00:49:02.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 fell from a high place
+[06Oct2025 00:54:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Spray 'n Pray]
+[06Oct2025 00:55:20.199] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[06Oct2025 00:55:20.199] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
+[06Oct2025 00:55:20.199] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:bogged
