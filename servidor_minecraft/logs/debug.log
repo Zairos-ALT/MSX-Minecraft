@@ -8522,3 +8522,14 @@ java.lang.IllegalStateException: not found
 [06Oct2025 07:12:35.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
 [06Oct2025 07:12:35.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
 [06Oct2025 07:13:28.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Zairos_ALT: {disabled=true, disconnected=true, uuid=c15f536a-2235-3c7a-8317-6d25cf334abb, name=Zairos_ALT, group=null}
+[06Oct2025 07:16:42.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Bolita'/52840, l='ServerLevel[PapuLandia]', x=2035.50, y=109.00, z=-4759.50] died: Bolita suffocated in a wall
+[06Oct2025 07:17:35.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[06Oct2025 07:17:35.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[06Oct2025 07:20:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:sharpness'
+[06Oct2025 07:20:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...airos_alt sharpness v<--[HERE]
+[06Oct2025 07:22:35.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[06Oct2025 07:22:35.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[06Oct2025 07:24:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[06Oct2025 07:24:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xp zairos_alt 100000<--[HERE]
+[06Oct2025 07:24:49.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[06Oct2025 07:24:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xp zairos_alt 1000<--[HERE]

@@ -321,3 +321,10 @@ java.lang.IllegalStateException: not found
 [06Oct2025 06:58:16.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=1421, y=83, z=-2165}
 [06Oct2025 06:58:16.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=1421, y=75, z=-2163}
 [06Oct2025 06:58:16.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=1421, y=69, z=-2161}
+[06Oct2025 07:16:42.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Bolita'/52840, l='ServerLevel[PapuLandia]', x=2035.50, y=109.00, z=-4759.50] died: Bolita suffocated in a wall
+[06Oct2025 07:20:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:sharpness'
+[06Oct2025 07:20:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...airos_alt sharpness v<--[HERE]
+[06Oct2025 07:24:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[06Oct2025 07:24:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xp zairos_alt 100000<--[HERE]
+[06Oct2025 07:24:49.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[06Oct2025 07:24:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xp zairos_alt 1000<--[HERE]
