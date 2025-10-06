@@ -426,6 +426,7 @@
       "minecraft:cold_ocean": "2025-10-06 02:10:32 +0000",
       "minecraft:forest": "2025-10-05 04:15:05 +0000",
       "minecraft:ice_spikes": "2025-10-06 01:42:49 +0000",
+      "minecraft:windswept_forest": "2025-10-06 06:21:24 +0000",
       "minecraft:ocean": "2025-10-05 04:51:22 +0000",
       "minecraft:jungle": "2025-10-06 00:54:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-10-06 02:25:02 +0000",
@@ -6897,6 +6898,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-10-06 06:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-10-06 05:54:51 +0000"
@@ -6906,6 +6913,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-10-06 05:54:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-10-06 06:31:18 +0000"
     },
     "done": true
   },

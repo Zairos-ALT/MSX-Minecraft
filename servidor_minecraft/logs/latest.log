@@ -305,3 +305,6 @@ java.lang.IllegalStateException: not found
 [06Oct2025 05:57:03.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairos_ALT> sdf
 [06Oct2025 06:07:06.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairos_ALT: Set own game mode to Survival Mode]
 [06Oct2025 06:07:14.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairos_ALT no longer a server operator
+[06Oct2025 06:20:35.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
+[06Oct2025 06:22:50.965] [Worker-Main-99/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[06Oct2025 06:27:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has completed the challenge [The Power of the Sun]
