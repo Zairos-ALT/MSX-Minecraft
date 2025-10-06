@@ -8467,3 +8467,9 @@ java.lang.IllegalStateException: not found
 [06Oct2025 05:57:35.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
 [06Oct2025 06:02:35.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
 [06Oct2025 06:02:35.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[06Oct2025 06:07:06.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairos_ALT: Set own game mode to Survival Mode]
+[06Oct2025 06:07:14.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairos_ALT no longer a server operator
+[06Oct2025 06:07:35.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[06Oct2025 06:07:35.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
+[06Oct2025 06:12:35.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save PapuLandia
+[06Oct2025 06:12:35.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete PapuLandia
