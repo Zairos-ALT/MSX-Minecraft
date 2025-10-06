@@ -6091,6 +6091,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/white_sail_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-06 01:55:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-10-06 00:11:18 +0000"

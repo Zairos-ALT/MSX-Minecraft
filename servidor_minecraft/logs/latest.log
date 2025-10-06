@@ -283,3 +283,7 @@ java.lang.IllegalStateException: not found
 [06Oct2025 01:44:42.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=289, y=67, z=-5576}
 [06Oct2025 01:44:42.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=290, y=67, z=-5576}
 [06Oct2025 01:44:42.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=288, y=67, z=-5576}
+[06Oct2025 01:59:14.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Back to childhood]
+[06Oct2025 01:59:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has made the advancement [Not even afraid of death]
+[06Oct2025 01:59:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has reached the goal [Great minds think alike]
+[06Oct2025 02:00:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Panchito232027 has reached the goal [Fortuitous Militia]

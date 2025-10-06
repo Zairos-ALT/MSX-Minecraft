@@ -1209,12 +1209,14 @@
       "minecraft:piglin_brute": "2025-10-05 09:20:49 +0000",
       "minecraft:spider": "2025-10-06 00:33:24 +0000",
       "minecraft:creeper": "2025-10-05 06:43:03 +0000",
+      "minecraft:phantom": "2025-10-06 01:58:39 +0000",
       "minecraft:zombified_piglin": "2025-10-06 00:42:53 +0000",
       "minecraft:witch": "2025-10-06 01:28:48 +0000",
       "minecraft:wither_skeleton": "2025-10-05 07:06:12 +0000",
       "minecraft:husk": "2025-10-05 06:49:55 +0000",
       "minecraft:piglin": "2025-10-05 09:03:50 +0000",
       "minecraft:enderman": "2025-10-05 09:27:38 +0000",
+      "minecraft:stray": "2025-10-06 01:54:01 +0000",
       "minecraft:zombie": "2025-10-05 06:43:01 +0000"
     },
     "done": false
@@ -3837,6 +3839,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-10-06 01:59:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-10-06 01:20:17 +0000"
@@ -4200,6 +4208,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-10-06 01:09:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-10-06 01:59:14 +0000"
     },
     "done": true
   },
