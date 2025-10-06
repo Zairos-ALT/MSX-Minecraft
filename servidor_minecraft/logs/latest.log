@@ -308,3 +308,16 @@ java.lang.IllegalStateException: not found
 [06Oct2025 06:20:35.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairos_ALT moved wrongly!
 [06Oct2025 06:22:50.965] [Worker-Main-99/INFO] [citadel/]: vanilla surface rule behavior unchanged
 [06Oct2025 06:27:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has completed the challenge [The Power of the Sun]
+[06Oct2025 06:34:54.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairos_ALT> asd
+[06Oct2025 06:37:55.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Jennifer Dumped Me]
+[06Oct2025 06:42:45.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Ant Farm]
+[06Oct2025 06:44:59.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25426, l='ServerLevel[PapuLandia]', x=865.06, y=62.15, z=-254.54] died, message: 'Unemployed was slain by Crocodile'
+[06Oct2025 06:48:08.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Oct2025 06:48:08.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wather clear<--[HERE]
+[06Oct2025 06:48:29.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
+[06Oct2025 06:49:06.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairos_ALT has made the advancement [Masquerade]
+[06Oct2025 06:50:50.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/27221, l='ServerLevel[PapuLandia]', x=583.43, y=-11.00, z=24.51] died, message: 'Farmer tried to swim in lava'
+[06Oct2025 06:58:16.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=south,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=1421, y=83, z=-2169}
+[06Oct2025 06:58:16.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=1421, y=83, z=-2165}
+[06Oct2025 06:58:16.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=right,open=false,powered=false,visible=true] but failed at location BlockPos{x=1421, y=75, z=-2163}
+[06Oct2025 06:58:16.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:copper_door}[facing=north,half=upper,hinge=left,open=false,powered=false,visible=true] but failed at location BlockPos{x=1421, y=69, z=-2161}

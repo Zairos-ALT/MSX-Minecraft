@@ -411,6 +411,7 @@
       "minecraft:sunflower_plains": "2025-10-05 05:31:26 +0000",
       "minecraft:birch_forest": "2025-10-05 04:49:18 +0000",
       "minecraft:windswept_hills": "2025-10-05 04:55:40 +0000",
+      "minecraft:bamboo_jungle": "2025-10-06 06:38:33 +0000",
       "minecraft:savanna_plateau": "2025-10-05 08:10:14 +0000",
       "minecraft:beach": "2025-10-05 05:01:12 +0000",
       "minecraft:dark_forest": "2025-10-05 06:34:18 +0000",
@@ -542,6 +543,7 @@
       "minecraft:ravager": "2025-10-05 07:15:10 +0000",
       "minecraft:hoglin": "2025-10-05 09:15:10 +0000",
       "minecraft:vindicator": "2025-10-05 04:15:10 +0000",
+      "minecraft:magma_cube": "2025-10-06 06:33:37 +0000",
       "minecraft:spider": "2025-10-05 07:19:06 +0000",
       "minecraft:creeper": "2025-10-05 04:03:28 +0000",
       "minecraft:phantom": "2025-10-05 03:34:22 +0000",
@@ -6856,15 +6858,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-10-06 06:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-10-06 06:35:53 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-10-06 06:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-10-06 05:54:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-10-06 06:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-10-06 05:54:51 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inverted_clutch_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-06 07:00:46 +0000"
     },
     "done": true
   },
@@ -6880,6 +6912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-10-06 06:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-10-06 05:54:51 +0000"
@@ -6892,9 +6930,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-10-06 06:35:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-10-06 05:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-10-06 06:35:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-10-06 06:42:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-10-06 07:00:56 +0000"
     },
     "done": true
   },
@@ -6904,15 +6966,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-10-06 06:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-10-06 05:54:51 +0000"
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/kinetic_bridge": {
+    "criteria": {
+      "has_item": "2025-10-06 07:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-10-06 06:35:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-10-06 05:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-10-06 06:35:53 +0000"
     },
     "done": true
   },
@@ -6928,6 +7014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-10-06 06:46:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-10-06 05:39:17 +0000"
@@ -6937,6 +7029,24 @@
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-10-06 05:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-10-06 06:46:18 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-10-06 06:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-10-06 06:46:18 +0000"
     },
     "done": true
   },
